@@ -1,0 +1,46 @@
+{
+  "name": "srt-player",
+  "version": "1.0.0",
+  "description": "An SRT file reader and player",
+  "main": "app.js",
+  "repository": "",
+  "scripts": {
+    "test": "karma start --single-run"
+  },
+  "author": {
+    "name": "Mark LeMerise",
+    "email": "mark.s.lemerise@gmail.com",
+    "url": "http://github.com/mslemeri"
+  },
+  "browserify": {
+    "transform": [
+      "coffeeify",
+      "brfs"
+    ]
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "brfs": "^1.2.0",
+    "browserify": "^8.1.1",
+    "chai": "^1.10.0",
+    "coffeeify": "^1.0.0",
+    "del": "^1.1.1",
+    "gulp": "^3.8.10",
+    "gulp-util": "^3.0.2",
+    "karma": "^0.12.31",
+    "karma-browserify": "^3.0.0",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-mocha": "^0.1.10",
+    "mocha": "^2.1.0",
+    "vinyl-source-stream": "^1.0.0",
+    "watchify": "^2.2.1"
+  },
+  "dependencies": {
+    "backbone": "^1.1.2",
+    "browserify-zepto": "^1.1.4",
+    "newline": "0.0.3",
+    "raf": "^2.0.4",
+    "underscore": "^1.7.0"
+  }
+}
