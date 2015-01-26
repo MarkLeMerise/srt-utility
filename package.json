@@ -2,8 +2,9 @@
   "name": "srt-player",
   "version": "1.0.0",
   "description": "An SRT file reader and player",
-  "main": "app.js",
-  "repository": "",
+  "main": "",
+  "private": true,
+  "repository": "https://github.com/mslemeri/srt-player",
   "scripts": {
     "test": "karma start --single-run"
   },
