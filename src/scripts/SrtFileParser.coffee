@@ -15,8 +15,8 @@ module.exports =
 
 		###
 		 * Parses and converts an SRT-style timestamp HH:MM:SS,sss into its equivalent in milliseconds
-		 * @param  {String} timestamp  	The SRT-formatted timestamp
-		 * @return {Number}      		Integer time in milliseconds
+		 * @param  {String} timestamp	The SRT-formatted timestamp
+		 * @return {Number}				Integer time in milliseconds
 		###
 		convertTimeToMs: (timestamp) ->
 			# Format is HH:MM:SS,sss
