@@ -19,7 +19,7 @@ describe 'SrtFileParser', ->
 	it 'should exist', -> expect(reader).to.exist
 
 
-	it 'should read a file', (done) ->
+	it 'should read a file', ->
 		srtSrc = fs.readFileSync(__dirname + '/fixtures/nixLf.srt')
 		srtPromise = reader.readFile(new File([srtSrc], 'nixLf.srt'))
 
@@ -29,5 +29,4 @@ describe 'SrtFileParser', ->
 			expect(srtFile).to.be.an.instanceof(SrtFile)
 			expect(srtFile.getPackets()).to.have.length 818
 			expect(srtFile.getLastTimestamp()).to.be.equal 2520978
-			done()
 		)

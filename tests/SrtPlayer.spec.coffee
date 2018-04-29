@@ -27,7 +27,7 @@ describe 'SrtPlayer', ->
 
 	it 'should set the source file', ->
 		expect(player).to.exist
-		expect(player.getSourceFile()).to.exist().and.to.be.an.instanceof(SrtFile)
+		expect(player.getSourceFile()).to.exist.and.to.be.an.instanceof(SrtFile)
 
 
 	it 'should start playback successfully', ->

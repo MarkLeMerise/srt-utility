@@ -1,17 +1,17 @@
 1
 00:00:00,020 --> 00:00:01,761
--Não estou grávida.
--Está bem.
+-NÃ£o estou grï¿½vida.
+-Estï¿½ bem.
 
 2
 00:00:01,762 --> 00:00:04,796
 Estou tentando
-há 4 meses.
+hï¿½ 4 meses.
 
 3
 00:00:04,797 --> 00:00:07,342
 Quando engravidar
-ficou tão difícil?
+ficou tï¿½o difï¿½cil?
 
 4
 00:00:07,343 --> 00:00:08,665
@@ -25,7 +25,7 @@ a noite toda.
 
 6
 00:00:11,806 --> 00:00:13,115
-Não sei o que é.
+Nï¿½o sei o que ï¿½.
 
 7
 00:00:13,116 --> 00:00:15,410
@@ -39,17 +39,17 @@ em Berkeley.
 
 9
 00:00:17,221 --> 00:00:19,499
--É uma ótima faculdade.
+-ï¿½ uma ï¿½tima faculdade.
 -Gaby trabalha conosco
 
 10
 00:00:19,500 --> 00:00:21,380
-há mais de 1 ano
+hï¿½ mais de 1 ano
 ajudando o Max,
 
 11
 00:00:21,381 --> 00:00:23,346
-e ela pediu demissão
+e ela pediu demissï¿½o
 por causa do Crosby.
 
 12
@@ -60,7 +60,7 @@ me enoja.
 13
 00:00:24,694 --> 00:00:28,123
 O que fez conosco me enoja.
-Não quero olhar para você.
+Nï¿½o quero olhar para vocï¿½.
 
 14
 00:00:34,767 --> 00:00:37,381
@@ -73,22 +73,22 @@ Precisamos ir.
 
 16
 00:00:42,293 --> 00:00:44,219
--Já terminei.
+-Jï¿½ terminei.
 -Obrigado.
 
 17
 00:00:44,220 --> 00:00:46,754
 -Obrigada.
--E aí?
+-E aï¿½?
 
 18
 00:00:46,755 --> 00:00:49,368
-E aí...
-E aí nada.
+E aï¿½...
+E aï¿½ nada.
 
 19
 00:00:49,369 --> 00:00:51,800
-Não deu em nada.
+Nï¿½o deu em nada.
 Tudo bem.
 
 20
@@ -99,7 +99,7 @@ e estava tudo normal...
 21
 00:00:54,673 --> 00:00:57,584
 Sempre leva um tempo.
-Ainda estamos no início.
+Ainda estamos no inï¿½cio.
 
 22
 00:00:57,585 --> 00:00:58,983
@@ -107,33 +107,33 @@ Precisa relaxar.
 
 23
 00:00:58,984 --> 00:01:00,926
-Acho que você deveria
+Acho que vocï¿½ deveria
 fazer uns exames.
 
 24
 00:01:00,927 --> 00:01:04,317
--Só para termos certeza.
--Certeza do quê?
+-Sï¿½ para termos certeza.
+-Certeza do quï¿½?
 
 25
 00:01:04,318 --> 00:01:06,410
 De quantos peixes
-você tem,
+vocï¿½ tem,
 
 26
 00:01:06,411 --> 00:01:08,011
-e quão rápido
-eles estão nadando.
+e quï¿½o rï¿½pido
+eles estï¿½o nadando.
 
 27
 00:01:08,012 --> 00:01:11,453
 -Vamos comprar um peixe?
--Não, fofinha. Talvez.
+-Nï¿½o, fofinha. Talvez.
 
 28
 00:01:11,454 --> 00:01:14,110
--Vou marcar uma consulta, tá?
--Sério?
+-Vou marcar uma consulta, tï¿½?
+-Sï¿½rio?
 
 29
 00:01:14,111 --> 00:01:15,614
@@ -142,17 +142,17 @@ que meu tanque
 
 30
 00:01:15,615 --> 00:01:18,273
-está cheio de nadadores
-rápidos e atléticos.
+estï¿½ cheio de nadadores
+rï¿½pidos e atlï¿½ticos.
 
 31
 00:01:18,274 --> 00:01:20,661
 -Com certeza.
--Vamos comprar um aquário?
+-Vamos comprar um aquï¿½rio?
 
 32
 00:01:20,662 --> 00:01:23,509
--Não. Talvez.
+-Nï¿½o. Talvez.
 -Vamos ver.
 
 33
@@ -167,12 +167,12 @@ Vamos.
 
 35
 00:01:28,062 --> 00:01:30,077
-Meus peixes estão bem.
+Meus peixes estï¿½o bem.
 
 36
 00:01:30,700 --> 00:01:32,257
 <i>Beleza.
-Lá vamos nós.
+Lï¿½ vamos nï¿½s.
 
 37
 00:01:33,987 --> 00:01:36,522
@@ -181,12 +181,12 @@ e te ligo de volta.
 
 38
 00:01:36,523 --> 00:01:38,348
-Não, obrigada.
+Nï¿½o, obrigada.
 Tudo bem.
 
 39
 00:01:38,349 --> 00:01:41,096
-Conversar comigo sobre o quê?
+Conversar comigo sobre o quï¿½?
 Quem era?
 
 40
@@ -195,23 +195,23 @@ Era da escola do Max.
 
 41
 00:01:43,101 --> 00:01:45,824
-Querem que a gente vá lá hoje
-para uma reunião.
+Querem que a gente vï¿½ lï¿½ hoje
+para uma reuniï¿½o.
 
 42
 00:01:46,725 --> 00:01:48,938
--Sério? Por quê?
--Não sei. Não disseram.
+-Sï¿½rio? Por quï¿½?
+-Nï¿½o sei. Nï¿½o disseram.
 
 43
 00:01:48,939 --> 00:01:51,381
-Só disseram que queriam
+Sï¿½ disseram que queriam
 falar conosco pessoalmente.
 
 44
 00:01:51,382 --> 00:01:53,200
 -Aconteceu algo?
--Não que eu saiba.
+-Nï¿½o que eu saiba.
 
 45
 00:01:53,201 --> 00:01:55,361
@@ -221,11 +221,11 @@ quer nos ver.
 46
 00:01:55,362 --> 00:01:57,505
 A diretora.
-Isso não é bom.
+Isso nï¿½o ï¿½ bom.
 
 47
 00:01:57,506 --> 00:01:59,432
-A última que vez
+A ï¿½ltima que vez
 que isso aconteceu...
 
 48
@@ -246,16 +246,16 @@ Vou liberar minha agenda hoje.
 51
 00:02:07,700 --> 00:02:09,363
 -Vai dar tudo certo.
--É.
+-ï¿½.
 
 52
 00:02:12,100 --> 00:02:15,254
-Não sei, o que acha?
-Ou vou de cópia da tia Julia,
+Nï¿½o sei, o que acha?
+Ou vou de cï¿½pia da tia Julia,
 
 53
 00:02:15,255 --> 00:02:18,163
-ou de bibliotecária cafona.
+ou de bibliotecï¿½ria cafona.
 
 54
 00:02:18,164 --> 00:02:20,030
@@ -269,7 +269,7 @@ de terno e gravata?
 
 56
 00:02:22,419 --> 00:02:25,411
-É uma firma de advocacia.
+ï¿½ uma firma de advocacia.
 Sobre o que vamos conversar?
 
 57
@@ -280,7 +280,7 @@ do meu ambiente.
 58
 00:02:27,133 --> 00:02:29,660
 Exatamente.
-É uma experiência nova.
+ï¿½ uma experiï¿½ncia nova.
 
 59
 00:02:29,661 --> 00:02:31,173
@@ -289,32 +289,32 @@ a tia Julia.
 
 60
 00:02:31,174 --> 00:02:33,449
-Olha para você.
-As coisas estão acontecendo.
+Olha para vocï¿½.
+As coisas estï¿½o acontecendo.
 
 61
 00:02:33,450 --> 00:02:35,773
-É um estágio
+ï¿½ um estï¿½gio
 que pode virar emprego.
 
 62
 00:02:35,774 --> 00:02:37,300
 Pode fazer isso
-durante o verão,
+durante o verï¿½o,
 
 63
 00:02:37,301 --> 00:02:38,911
 quando Berkeley
-estiver em férias.
+estiver em fï¿½rias.
 
 64
 00:02:38,912 --> 00:02:41,810
-Quando estiver de férias.
+Quando estiver de fï¿½rias.
 Porque eu vou para Berkeley.
 
 65
 00:02:41,811 --> 00:02:43,168
-Ainda não sabemos, mãe.
+Ainda nï¿½o sabemos, mï¿½e.
 
 66
 00:02:43,169 --> 00:02:45,510
@@ -324,61 +324,61 @@ Ainda não sabemos, mãe.
 67
 00:02:45,511 --> 00:02:47,384
 E se eu
-não for aceita em Berkeley?
+nï¿½o for aceita em Berkeley?
 
 68
 00:02:47,385 --> 00:02:49,516
-Por que não pensa
+Por que nï¿½o pensa
 em algo positivo?
 
 69
 00:02:49,517 --> 00:02:52,268
-Você está colocando
-muita pressão em mim.
+Vocï¿½ estï¿½ colocando
+muita pressï¿½o em mim.
 
 70
 00:02:52,269 --> 00:02:55,874
--O que tem nas calças, pai?
+-O que tem nas calï¿½as, pai?
 -Estava indo ao banheiro,
 
 71
 00:02:55,875 --> 00:02:58,790
 e estava lendo
-a sua peça.
+a sua peï¿½a.
 
 72
 00:02:58,791 --> 00:03:00,457
-Pai, tá de brincadeira?
+Pai, tï¿½ de brincadeira?
 
 73
 00:03:00,458 --> 00:03:02,440
-Você leu?
+Vocï¿½ leu?
 Levou ao banheiro?
 
 74
 00:03:02,441 --> 00:03:04,958
--Peça? Como assim?
--Não é uma peça...
+-Peï¿½a? Como assim?
+-Nï¿½o ï¿½ uma peï¿½a...
 
 75
 00:03:04,959 --> 00:03:08,815
-Sua mãe escreveu uma peça
-e é fantástica, Amber.
+Sua mï¿½e escreveu uma peï¿½a
+e ï¿½ fantï¿½stica, Amber.
 
 76
 00:03:08,816 --> 00:03:11,279
-Escrevi um negócio.
-Ainda não está finalizado.
+Escrevi um negï¿½cio.
+Ainda nï¿½o estï¿½ finalizado.
 
 77
 00:03:11,280 --> 00:03:13,480
-Não era para ter lido.
-Não é para ninguém ler.
+Nï¿½o era para ter lido.
+Nï¿½o ï¿½ para ninguï¿½m ler.
 
 78
 00:03:13,481 --> 00:03:16,591
 -E eu estou nela? Estou?
--É tudo sobre você.
+-ï¿½ tudo sobre vocï¿½.
 
 79
 00:03:21,298 --> 00:03:22,796
@@ -405,18 +405,18 @@ Jasmine...
 
 84
 00:03:41,106 --> 00:03:43,921
--Sei que não quer falar comigo.
--Não mesmo.
+-Sei que nï¿½o quer falar comigo.
+-Nï¿½o mesmo.
 
 85
 00:03:43,922 --> 00:03:46,022
 -Mas se puder...
--Mãe, pai, adivinhem?
+-Mï¿½e, pai, adivinhem?
 
 86
 00:03:46,023 --> 00:03:47,533
 -Oi!
--Oi, amigão.
+-Oi, amigï¿½o.
 
 87
 00:03:47,534 --> 00:03:49,332
@@ -424,13 +424,13 @@ Sou a estrela da semana.
 
 88
 00:03:50,527 --> 00:03:52,650
-Olha só. Voilà.
+Olha sï¿½. Voilï¿½.
 TUDO SOBRE O JABBAR
 
 89
 00:03:52,651 --> 00:03:54,517
 -Que legal.
--Isso é ótimo.
+-Isso ï¿½ ï¿½timo.
 
 90
 00:03:54,518 --> 00:03:57,810
@@ -445,17 +445,17 @@ comparecem a aula
 92
 00:04:00,062 --> 00:04:01,736
 para falar
-sobre a família.
+sobre a famï¿½lia.
 
 93
 00:04:01,737 --> 00:04:04,570
--Nós 3 juntos?
--É!
+-Nï¿½s 3 juntos?
+-ï¿½!
 
 94
 00:04:04,571 --> 00:04:06,943
 Podem vir,
-não podem?
+nï¿½o podem?
 
 95
 00:04:11,123 --> 00:04:13,988
@@ -464,7 +464,7 @@ Sim, claro.
 96
 00:04:15,053 --> 00:04:16,769
 Vamos colocar
-um montão de fotos.
+um montï¿½o de fotos.
 
 97
 00:04:16,770 --> 00:04:20,079
@@ -479,26 +479,26 @@ Tudo sobre mim.
 99
 00:04:23,800 --> 00:04:25,619
 Filho,
-como vão as aulas?
+como vï¿½o as aulas?
 
 100
 00:04:25,620 --> 00:04:29,094
-Tá tudo bem? Gosta dos amigos?
+Tï¿½ tudo bem? Gosta dos amigos?
 Eles te tratam bem?
 
 101
 00:04:29,095 --> 00:04:31,890
 -Vamos andar muito ainda?
--Não muito.
+-Nï¿½o muito.
 
 102
 00:04:31,891 --> 00:04:35,293
--Só caminhando um pouquinho.
--É estranho. Não caminhamos.
+-Sï¿½ caminhando um pouquinho.
+-ï¿½ estranho. Nï¿½o caminhamos.
 
 103
 00:04:35,294 --> 00:04:38,124
-É divertido.
+ï¿½ divertido.
 Passar um tempo juntos...
 
 104
@@ -513,18 +513,18 @@ Consegue segurar?
 
 106
 00:04:42,212 --> 00:04:45,703
--É sério. Preciso fazer xixi.
--Segura só mais um pouco.
+-ï¿½ sï¿½rio. Preciso fazer xixi.
+-Segura sï¿½ mais um pouco.
 
 107
 00:04:45,704 --> 00:04:47,299
-Não consigo...
+Nï¿½o consigo...
 Vou fazer aqui.
 
 108
 00:04:47,300 --> 00:04:49,790
 Sabe o que podemos fazer?
-Vamos à casa dos Lessings.
+Vamos ï¿½ casa dos Lessings.
 
 109
 00:04:49,791 --> 00:04:52,458
@@ -533,7 +533,7 @@ Aguenta firme.
 
 110
 00:04:53,780 --> 00:04:55,100
-Olá.
+Olï¿½.
 Preciso fazer xixi.
 
 111
@@ -542,18 +542,18 @@ Desculpa te incomodar assim.
 
 112
 00:04:57,911 --> 00:05:00,550
-Estávamos caminhando
+Estï¿½vamos caminhando
 e ele precisa usar o banheiro.
 
 113
 00:05:00,551 --> 00:05:02,305
 Normalmente,
-não teria problemas.
+nï¿½o teria problemas.
 
 114
 00:05:02,306 --> 00:05:05,079
 Mas o banheiro de visitas
-está em reforma.
+estï¿½ em reforma.
 
 115
 00:05:05,080 --> 00:05:06,385
@@ -571,12 +571,12 @@ o banheiro velho.
 
 118
 00:05:10,100 --> 00:05:12,934
-Olha a educação!
+Olha a educaï¿½ï¿½o!
 Minha nossa, me desculpa.
 
 119
 00:05:12,935 --> 00:05:16,094
--Estávamos caminhando...
+-Estï¿½vamos caminhando...
 -Oi, Gaby! Oi, Noel!
 
 120
@@ -595,7 +595,7 @@ Are you afraid of the Dark?
 
 123
 00:05:26,740 --> 00:05:29,385
-<i>Que Deus o abençoe
+<i>Que Deus o abenï¿½oe
 e te proteja sempre
 
 124
@@ -611,12 +611,12 @@ os outros
 126
 00:05:34,193 --> 00:05:36,379
 <i>E deixe os outros
-ajudarem você
+ajudarem vocï¿½
 
 127
 00:05:36,380 --> 00:05:39,311
 <i>Que construa
-uma escada até as estrelas
+uma escada atï¿½ as estrelas
 
 128
 00:05:39,312 --> 00:05:41,161
@@ -629,12 +629,12 @@ pra sempre jovem
 
 130
 00:05:46,100 --> 00:05:48,795
-<i>Que cresça
+<i>Que cresï¿½a
 para ser justo
 
 131
 00:05:48,796 --> 00:05:50,992
-<i>Que cresça
+<i>Que cresï¿½a
 para ser honesto
 
 132
@@ -679,23 +679,23 @@ Barbara | doh
 
 140
 00:06:13,490 --> 00:06:15,412
-Talvez alguém
+Talvez alguï¿½m
 possa me explicar
 
 141
 00:06:15,413 --> 00:06:17,983
-o que está havendo aqui,
+o que estï¿½ havendo aqui,
 porque estou confusa.
 
 142
 00:06:17,984 --> 00:06:20,697
--Está auxiliando o Noel?
+-Estï¿½ auxiliando o Noel?
 -Eu ia te contar.
 
 143
 00:06:20,698 --> 00:06:22,790
--Não contou a ela?
--Contar o quê?
+-Nï¿½o contou a ela?
+-Contar o quï¿½?
 
 144
 00:06:22,791 --> 00:06:25,650
@@ -710,22 +710,22 @@ Ele estava mal na escola.
 146
 00:06:28,814 --> 00:06:31,393
 -Achei que soubesse.
--Não sabia de nada, tá?
+-Nï¿½o sabia de nada, tï¿½?
 
 147
 00:06:31,394 --> 00:06:33,530
-Você não faz ideia
-do que Max está passando.
+Vocï¿½ nï¿½o faz ideia
+do que Max estï¿½ passando.
 
 148
 00:06:33,531 --> 00:06:36,531
-Entendo que está chateada,
+Entendo que estï¿½ chateada,
 mas Suzy precisava de ajuda.
 
 149
 00:06:36,532 --> 00:06:39,210
 E o Max?
-Nos deixou na mão, Gaby.
+Nos deixou na mï¿½o, Gaby.
 
 150
 00:06:39,211 --> 00:06:40,865
@@ -739,22 +739,22 @@ com Crosby.
 
 152
 00:06:42,501 --> 00:06:45,190
-Temos uma reunião na escola hoje
+Temos uma reuniï¿½o na escola hoje
 e ele deve ser expulso.
 
 153
 00:06:45,191 --> 00:06:47,140
--Não sabemos o que fazer.
+-Nï¿½o sabemos o que fazer.
 -O que houve?
 
 154
 00:06:47,141 --> 00:06:51,006
-Não sei, ele não quer falar, tá?
+Nï¿½o sei, ele nï¿½o quer falar, tï¿½?
 Max, vamos.
 
 155
 00:06:51,007 --> 00:06:52,665
--Já vou.
+-Jï¿½ vou.
 -Sinto muito.
 
 156
@@ -764,12 +764,12 @@ tenha valido a pena,
 
 157
 00:06:54,501 --> 00:06:56,940
-porque não foi o único
-que você prejudicou.
+porque nï¿½o foi o ï¿½nico
+que vocï¿½ prejudicou.
 
 158
 00:06:57,600 --> 00:07:00,436
--Até mais ver.
+-Atï¿½ mais ver.
 -Kristina...
 
 159
@@ -778,8 +778,8 @@ Boa sorte com a reforma.
 
 160
 00:07:04,280 --> 00:07:07,453
-Isso é muito legal.
-Você é tão bem-sucedida.
+Isso ï¿½ muito legal.
+Vocï¿½ ï¿½ tï¿½o bem-sucedida.
 
 161
 00:07:07,454 --> 00:07:10,079
@@ -788,17 +788,17 @@ de verdade.
 
 162
 00:07:11,300 --> 00:07:13,500
-Por que só falam
+Por que sï¿½ falam
 do tio Adam?
 
 163
 00:07:13,501 --> 00:07:16,689
--Ele só mexe com sapatos.
+-Ele sï¿½ mexe com sapatos.
 -Por favor, diga isso a ele.
 
 164
 00:07:17,706 --> 00:07:21,630
-Também queria te agradecer
+Tambï¿½m queria te agradecer
 por este trabalho.
 
 165
@@ -808,13 +808,13 @@ muito mesmo.
 
 166
 00:07:24,310 --> 00:07:26,409
-Sei que é algo
+Sei que ï¿½ algo
 bem simples,
 
 167
 00:07:26,444 --> 00:07:28,903
-mas é bom,
-uma boa experiência.
+mas ï¿½ bom,
+uma boa experiï¿½ncia.
 
 168
 00:07:28,904 --> 00:07:32,140
@@ -823,42 +823,42 @@ para a faculdade.
 
 169
 00:07:32,141 --> 00:07:34,055
--Já teve notícias?
--Não.
+-Jï¿½ teve notï¿½cias?
+-Nï¿½o.
 
 170
 00:07:34,056 --> 00:07:36,855
--É bem estressante.
+-ï¿½ bem estressante.
 -Entendo.
 
 171
 00:07:36,856 --> 00:07:38,812
-É meio brutal,
+ï¿½ meio brutal,
 mas aguenta firme.
 
 172
 00:07:38,813 --> 00:07:41,044
 -Vale a pena.
--É.
+-ï¿½.
 
 173
 00:07:41,279 --> 00:07:43,975
--Toc, toc. Alguém em casa?
+-Toc, toc. Alguï¿½m em casa?
 -Pode entrar.
 
 174
 00:07:43,976 --> 00:07:47,330
-Essa é minha sobrinha Amber.
+Essa ï¿½ minha sobrinha Amber.
 Cumprimente o Gary.
 
 175
 00:07:47,331 --> 00:07:49,200
-Ela começa a trabalhar
+Ela comeï¿½a a trabalhar
 aqui hoje.
 
 176
 00:07:49,201 --> 00:07:51,901
-Está cursando direito ou...
+Estï¿½ cursando direito ou...
 
 177
 00:07:51,902 --> 00:07:54,687
@@ -872,17 +872,17 @@ cursa direito?
 
 179
 00:07:58,501 --> 00:08:01,690
-Não curso direito.
-Pelo menos, ainda não.
+Nï¿½o curso direito.
+Pelo menos, ainda nï¿½o.
 
 180
 00:08:01,691 --> 00:08:03,486
 Talvez mais pra frente.
-Não sei.
+Nï¿½o sei.
 
 181
 00:08:03,487 --> 00:08:05,833
-Aqui estão as chaves
+Aqui estï¿½o as chaves
 do seu carro.
 
 182
@@ -898,21 +898,21 @@ no porta-mala.
 184
 00:08:10,461 --> 00:08:12,005
 -Obrigada.
--Eu que agradeço.
+-Eu que agradeï¿½o.
 
 185
 00:08:12,006 --> 00:08:14,415
 -Pode ir.
--Foi um prazer conhecê-la.
+-Foi um prazer conhecï¿½-la.
 
 186
 00:08:14,416 --> 00:08:16,140
-Tente não estragar tudo
-no 1º dia.
+Tente nï¿½o estragar tudo
+no 1ï¿½ dia.
 
 187
 00:08:16,141 --> 00:08:17,682
-Engraçadinho.
+Engraï¿½adinho.
 
 188
 00:08:17,683 --> 00:08:19,663
@@ -921,11 +921,11 @@ Engraçadinho.
 189
 00:08:19,664 --> 00:08:22,290
 -Oi, amor.
--Julia, isso é loucura.
+-Julia, isso ï¿½ loucura.
 
 190
 00:08:22,291 --> 00:08:24,552
-Não posso masturbar
+Nï¿½o posso masturbar
 num copo.
 
 191
@@ -935,42 +935,42 @@ sinto muito.
 
 192
 00:08:26,774 --> 00:08:30,507
-Você está no viva-voz
-e Amber está aqui.
+Vocï¿½ estï¿½ no viva-voz
+e Amber estï¿½ aqui.
 
 193
 00:08:30,508 --> 00:08:32,750
--Ela está aí?
-<i>-Olá.</i>
+-Ela estï¿½ aï¿½?
+<i>-Olï¿½.</i>
 
 194
 00:08:32,751 --> 00:08:35,940
 -Oi. Como vai?
--Como vai você?
+-Como vai vocï¿½?
 
 195
 00:08:35,941 --> 00:08:37,488
 -Vou indo.
--Está bem.
+-Estï¿½ bem.
 
 196
 00:08:37,523 --> 00:08:39,853
-Então, o que houve?
+Entï¿½o, o que houve?
 
 197
 00:08:39,854 --> 00:08:42,416
--Não posso fazer isso.
--Por que não?
+-Nï¿½o posso fazer isso.
+-Por que nï¿½o?
 
 198
 00:08:42,417 --> 00:08:45,454
-Nem sei por onde começar.
-Essa sala é congelante.
+Nem sei por onde comeï¿½ar.
+Essa sala ï¿½ congelante.
 
 199
 00:08:45,455 --> 00:08:47,449
 Estou sentado aqui.
-Tá tocando música.
+Tï¿½ tocando mï¿½sica.
 
 200
 00:08:47,450 --> 00:08:49,262
@@ -978,7 +978,7 @@ Pessoas entram aqui...
 
 201
 00:08:49,263 --> 00:08:51,699
-Me trouxeram várias Playboys
+Me trouxeram vï¿½rias Playboys
 dos anos 80
 
 202
@@ -988,13 +988,13 @@ quando tiver terminado.
 
 203
 00:08:53,862 --> 00:08:56,180
--É tão estranho, amor.
+-ï¿½ tï¿½o estranho, amor.
 -Sinto muito.
 
 204
 00:08:56,181 --> 00:08:58,497
 O que quer
-que eu faça?
+que eu faï¿½a?
 
 205
 00:08:58,498 --> 00:09:00,604
@@ -1012,12 +1012,12 @@ Sexo por telefone.
 208
 00:09:07,220 --> 00:09:10,700
 -Sabe fazer isso?
--Acho que sim, sei lá.
+-Acho que sim, sei lï¿½.
 
 209
 00:09:14,000 --> 00:09:17,788
--Me dê um segundo.
--Espera aí. Espera.
+-Me dï¿½ um segundo.
+-Espera aï¿½. Espera.
 
 210
 00:09:20,131 --> 00:09:21,640
@@ -1033,7 +1033,7 @@ Eu quero...
 
 213
 00:09:27,728 --> 00:09:29,831
-Eu quero... tá bom.
+Eu quero... tï¿½ bom.
 
 214
 00:09:29,832 --> 00:09:32,060
@@ -1042,7 +1042,7 @@ Obrigada.
 
 215
 00:09:33,509 --> 00:09:35,583
-Queríamos falar com vocês
+Querï¿½amos falar com vocï¿½s
 
 216
 00:09:35,584 --> 00:09:38,373
@@ -1051,37 +1051,37 @@ escolar do Max.
 
 217
 00:09:38,374 --> 00:09:40,402
-O que está havendo?
-Ele está atrasado?
+O que estï¿½ havendo?
+Ele estï¿½ atrasado?
 
 218
 00:09:40,403 --> 00:09:43,029
 Se estiver, falamos com ele
-sobre o diagnóstico.
+sobre o diagnï¿½stico.
 
 219
 00:09:43,030 --> 00:09:45,085
 -Pode ser o motivo.
--Ele está distraído.
+-Ele estï¿½ distraï¿½do.
 
 220
 00:09:45,086 --> 00:09:48,456
 Na verdade,
-é justamente o contrário.
+ï¿½ justamente o contrï¿½rio.
 
 221
 00:09:48,457 --> 00:09:50,755
-Ele está indo muito bem,
+Ele estï¿½ indo muito bem,
 
 222
 00:09:50,756 --> 00:09:52,709
 principalmente
-em matemática e ciências.
+em matemï¿½tica e ciï¿½ncias.
 
 223
 00:09:52,710 --> 00:09:54,381
-Por isso queríamos
-falar com vocês.
+Por isso querï¿½amos
+falar com vocï¿½s.
 
 224
 00:09:54,382 --> 00:09:56,356
@@ -1090,12 +1090,12 @@ que estamos de olho,
 
 225
 00:09:56,357 --> 00:09:59,995
-e procurando formas de mantê-lo
+e procurando formas de mantï¿½-lo
 interessado nas aulas,
 
 226
 00:09:59,996 --> 00:10:02,829
-para que isso não seja
+para que isso nï¿½o seja
 um problema depois.
 
 227
@@ -1105,20 +1105,20 @@ Tudo bem.
 1
 00:10:06,337 --> 00:10:07,849
 -Algo errado?
--Não.
+-Nï¿½o.
 
 2
 00:10:07,850 --> 00:10:10,256
-Só não esperava por isso.
+Sï¿½ nï¿½o esperava por isso.
 
 3
 00:10:10,257 --> 00:10:13,317
--Quer saber? São boas notícias.
+-Quer saber? Sï¿½o boas notï¿½cias.
 -Certamente.
 
 4
 00:10:13,318 --> 00:10:15,153
-Queríamos que soubessem
+Querï¿½amos que soubessem
 
 5
 00:10:15,154 --> 00:10:17,039
@@ -1128,11 +1128,11 @@ o Max de volta,
 6
 00:10:17,040 --> 00:10:18,927
 teremos sempre
-uma vaga disponível.
+uma vaga disponï¿½vel.
 
 7
 00:10:18,928 --> 00:10:21,815
-Não entendi. Por que não iríamos
+Nï¿½o entendi. Por que nï¿½o irï¿½amos
 trazer Max de volta?
 
 8
@@ -1146,18 +1146,18 @@ na Footpath Socially.
 
 10
 00:10:26,248 --> 00:10:27,828
-E a última coisa
+E a ï¿½ltima coisa
 que queremos,
 
 11
 00:10:27,829 --> 00:10:31,108
-é que uma família como a sua,
+ï¿½ que uma famï¿½lia como a sua,
 saia nossa comunidade.
 
 12
 00:10:31,109 --> 00:10:34,982
-Porém, vocês devem decidir
-se Max não estará melhor
+Porï¿½m, vocï¿½s devem decidir
+se Max nï¿½o estarï¿½ melhor
 
 13
 00:10:34,983 --> 00:10:36,800
@@ -1167,11 +1167,11 @@ onde possa atingir
 14
 00:10:36,835 --> 00:10:41,326
 todo o seu potencial
-social e acadêmico.
+social e acadï¿½mico.
 
 15
 00:10:46,642 --> 00:10:47,943
-Olá!
+Olï¿½!
 
 16
 00:10:47,978 --> 00:10:50,002
@@ -1180,23 +1180,23 @@ Olá!
 
 17
 00:10:50,037 --> 00:10:51,510
-Você sabe,
+Vocï¿½ sabe,
 foi legal.
 
 18
 00:10:51,511 --> 00:10:55,602
-Teve muito, você sabe,
-papéis e trabalho.
+Teve muito, vocï¿½ sabe,
+papï¿½is e trabalho.
 
 19
 00:10:55,637 --> 00:10:58,765
-Você enviou um memorando
-ou um fax para alguém?
+Vocï¿½ enviou um memorando
+ou um fax para alguï¿½m?
 
 20
 00:10:58,800 --> 00:11:01,826
-Não, não existe mais fax
-pois não estamos mais em 1990.
+Nï¿½o, nï¿½o existe mais fax
+pois nï¿½o estamos mais em 1990.
 
 21
 00:11:01,861 --> 00:11:03,489
@@ -1204,31 +1204,31 @@ Ei, ainda existem faxes!
 
 22
 00:11:03,524 --> 00:11:05,656
-Acho que não.
-Meu pé dói.
+Acho que nï¿½o.
+Meu pï¿½ dï¿½i.
 
 23
 00:11:05,691 --> 00:11:08,889
 O que foi?
-Por que você está...
+Por que vocï¿½ estï¿½...
 
 24
 00:11:08,924 --> 00:11:11,519
-Você recebeu uma carta!
+Vocï¿½ recebeu uma carta!
 
 25
 00:11:15,542 --> 00:11:16,906
 -Que foi?
--Ótimo.
+-ï¿½timo.
 
 26
 00:11:16,941 --> 00:11:19,297
-Veja como é fina.
+Veja como ï¿½ fina.
 
 27
 00:11:19,332 --> 00:11:21,637
-Você ainda não sabe
-o que está escrito.
+Vocï¿½ ainda nï¿½o sabe
+o que estï¿½ escrito.
 
 28
 00:11:21,672 --> 00:11:22,976
@@ -1237,12 +1237,12 @@ Vamos ver.
 29
 00:11:26,340 --> 00:11:29,153
 "Lamento profundamente
-que não pudemos..."
+que nï¿½o pudemos..."
 
 30
 00:11:29,188 --> 00:11:30,567
--Não acredito!
--É.
+-Nï¿½o acredito!
+-ï¿½.
 
 31
 00:11:30,602 --> 00:11:32,494
@@ -1255,7 +1255,7 @@ Querida, eu sinto muito.
 
 33
 00:11:35,375 --> 00:11:37,522
-Eu só me inscrevi
+Eu sï¿½ me inscrevi
 em mais outra faculdade.
 
 34
@@ -1265,11 +1265,11 @@ em mais lugares.
 
 35
 00:11:39,883 --> 00:11:41,219
-Não, veja bem...
+Nï¿½o, veja bem...
 
 36
 00:11:41,254 --> 00:11:44,995
-Você só escolheu
+Vocï¿½ sï¿½ escolheu
 uma faculdade de reserva
 
 37
@@ -1280,12 +1280,12 @@ sobre a Berkeley.
 38
 00:11:47,148 --> 00:11:48,901
 Eu sei, Berkeley.
-Eu sei, mãe.
+Eu sei, mï¿½e.
 
 39
 00:11:48,936 --> 00:11:51,423
-Não, eu só quero dizer...
-Você sabe...
+Nï¿½o, eu sï¿½ quero dizer...
+Vocï¿½ sabe...
 
 40
 00:11:51,458 --> 00:11:54,387
@@ -1294,47 +1294,47 @@ seu relacionamento com Carly...
 
 41
 00:11:54,388 --> 00:11:56,633
-Por isso só se inscreveu
+Por isso sï¿½ se inscreveu
 em mais uma faculdade.
 
 42
 00:11:56,634 --> 00:11:57,934
--Mãe!
--Eu só quero dizer...
+-Mï¿½e!
+-Eu sï¿½ quero dizer...
 
 43
 00:11:57,935 --> 00:12:00,153
-É muito estressante
-e muita pressão, certo?
+ï¿½ muito estressante
+e muita pressï¿½o, certo?
 
 44
 00:12:00,154 --> 00:12:01,911
--Não se sinta pressionada.
+-Nï¿½o se sinta pressionada.
 -Me sinto.
 
 45
 00:12:01,912 --> 00:12:03,830
-Só estou dizendo
+Sï¿½ estou dizendo
 que vai dar tudo certo.
 
 46
 00:12:03,865 --> 00:12:05,674
 Certo. Obrigada.
-Eu agradeço.
+Eu agradeï¿½o.
 
 47
 00:12:09,570 --> 00:12:11,742
-Esta é legal.
+Esta ï¿½ legal.
 Halloween.
 
 48
 00:12:12,523 --> 00:12:14,261
 Eu sou o Evel Knievel.
-Quem é você?
+Quem ï¿½ vocï¿½?
 
 49
 00:12:14,262 --> 00:12:15,779
-Você é o garoto de pijama?
+Vocï¿½ ï¿½ o garoto de pijama?
 
 50
 00:12:16,500 --> 00:12:17,800
@@ -1343,21 +1343,21 @@ Eu sou um Jedi.
 51
 00:12:17,821 --> 00:12:19,457
 Eu gosto desta.
-Nós deveríamos...
+Nï¿½s deverï¿½amos...
 
 52
 00:12:19,492 --> 00:12:21,637
--Essa é legal também!
+-Essa ï¿½ legal tambï¿½m!
 -Bingo!
 
 53
 00:12:21,672 --> 00:12:23,644
--Aqui vamos nós.
--Não.
+-Aqui vamos nï¿½s.
+-Nï¿½o.
 
 54
 00:12:23,645 --> 00:12:26,297
-Não? Certo.
+Nï¿½o? Certo.
 Lembra dos Jardins Japoneses?
 
 55
@@ -1376,8 +1376,8 @@ comemos seu rosto?
 
 58
 00:12:30,626 --> 00:12:32,518
--Não.
--Você não lembra?
+-Nï¿½o.
+-Vocï¿½ nï¿½o lembra?
 
 59
 00:12:32,553 --> 00:12:34,135
@@ -1385,42 +1385,42 @@ E esta aqui?
 
 60
 00:12:34,170 --> 00:12:35,998
-Banda da família.
+Banda da famï¿½lia.
 
 61
 00:12:36,033 --> 00:12:38,630
 Eu estava tocando piano,
-e você?
+e vocï¿½?
 
 62
 00:12:38,665 --> 00:12:40,671
--Eu estava tocando bongôs.
+-Eu estava tocando bongï¿½s.
 -Isso mesmo.
 
 63
 00:12:40,706 --> 00:12:42,903
-Enquanto a mamãe
-cantava e dançava.
+Enquanto a mamï¿½e
+cantava e danï¿½ava.
 
 64
 00:12:42,938 --> 00:12:45,672
--Foi bem divertido, não foi?
+-Foi bem divertido, nï¿½o foi?
 -Sim.
 
 65
 00:12:45,707 --> 00:12:47,958
-Quem sabe você deva
+Quem sabe vocï¿½ deva
 colocar esta na sua lista.
 
 66
 00:12:47,993 --> 00:12:50,459
 Sabe o que mais?
-É uma boa ideia!
+ï¿½ uma boa ideia!
 
 67
 00:12:50,494 --> 00:12:53,909
-Sim. Tocar música...
-Com mamãe e papai.
+Sim. Tocar mï¿½sica...
+Com mamï¿½e e papai.
 
 68
 00:12:55,419 --> 00:12:57,794
@@ -1434,46 +1434,46 @@ para idiomas.
 
 70
 00:12:59,482 --> 00:13:01,568
--É muita coisa boa.
--Querida, rápido.
+-ï¿½ muita coisa boa.
+-Querida, rï¿½pido.
 
 71
 00:13:01,603 --> 00:13:03,663
 Entre logo aqui.
-Quero que conheça alguém.
+Quero que conheï¿½a alguï¿½m.
 
 72
 00:13:03,698 --> 00:13:06,043
 -Oi.
--Estive só ouvindo
+-Estive sï¿½ ouvindo
 
 73
 00:13:06,078 --> 00:13:08,579
-coisas ótimas sobre Sarah
+coisas ï¿½timas sobre Sarah
 o dia todo.
 
 74
 00:13:08,614 --> 00:13:11,371
 -Obrigada.
--Este é Gillian T. Blount.
+-Este ï¿½ Gillian T. Blount.
 
 75
 00:13:11,406 --> 00:13:13,356
-Estão...
-Tomando Martini, então?
+Estï¿½o...
+Tomando Martini, entï¿½o?
 
 76
 00:13:13,357 --> 00:13:15,327
-Não, nada disso.
-Só aproveitando o tempo.
+Nï¿½o, nada disso.
+Sï¿½ aproveitando o tempo.
 
 77
 00:13:15,362 --> 00:13:16,730
-Sim. Gim é atemporal.
+Sim. Gim ï¿½ atemporal.
 
 78
 00:13:16,765 --> 00:13:18,282
-Nós servimos
+Nï¿½s servimos
 juntos na guerra,
 
 79
@@ -1487,16 +1487,16 @@ em Saigon.
 
 81
 00:13:25,066 --> 00:13:26,952
-Você teria tirado o chapéu.
+Vocï¿½ teria tirado o chapï¿½u.
 
 82
 00:13:26,987 --> 00:13:28,623
-Você era do teatro?
+Vocï¿½ era do teatro?
 
 83
 00:13:28,658 --> 00:13:32,663
 E ele atuou como o melhor Biff
-que você já viu.
+que vocï¿½ jï¿½ viu.
 
 84
 00:13:32,664 --> 00:13:34,930
@@ -1506,30 +1506,30 @@ que você já viu.
 85
 00:13:34,931 --> 00:13:36,458
 Bem, foi um prazer
-conhecê-lo.
+conhecï¿½-lo.
 
 86
 00:13:36,493 --> 00:13:38,321
-Querida, você não sabe,
+Querida, vocï¿½ nï¿½o sabe,
 
 87
 00:13:38,356 --> 00:13:42,113
-mas está na presença
+mas estï¿½ na presenï¿½a
 de um gigante.
 
 88
 00:13:42,148 --> 00:13:45,338
 Gillian T. Blount,
-se você me permite dizer
+se vocï¿½ me permite dizer
 
 89
 00:13:45,373 --> 00:13:48,136
-é um dos melhores
+ï¿½ um dos melhores
 produtores da Broadway
 
 90
 00:13:48,171 --> 00:13:49,873
-que já existiu.
+que jï¿½ existiu.
 
 91
 00:13:49,908 --> 00:13:51,209
@@ -1538,31 +1538,31 @@ E adivinhe?
 92
 00:13:51,214 --> 00:13:54,885
 Ele concordou em ler
-a sua peça.
+a sua peï¿½a.
 
 93
 00:13:54,920 --> 00:13:57,376
-Não acredito.
-Nossa, isso é uma honra.
+Nï¿½o acredito.
+Nossa, isso ï¿½ uma honra.
 
 94
 00:13:57,411 --> 00:13:58,818
-É mesmo ótimo, pai,
-mas não.
+ï¿½ mesmo ï¿½timo, pai,
+mas nï¿½o.
 
 95
 00:13:58,819 --> 00:14:00,727
-Ninguém deve ler ainda.
-Não está pronto.
+Ninguï¿½m deve ler ainda.
+Nï¿½o estï¿½ pronto.
 
 96
 00:14:00,728 --> 00:14:02,484
--Não está pronto.
--Fizemos cópias.
+-Nï¿½o estï¿½ pronto.
+-Fizemos cï¿½pias.
 
 97
 00:14:02,485 --> 00:14:04,351
--Não, eu não quero.
+-Nï¿½o, eu nï¿½o quero.
 -Todos dizem isso.
 
 98
@@ -1580,17 +1580,17 @@ que eu quero tirar.
 
 101
 00:14:10,757 --> 00:14:13,336
-Você vai tirar
+Vocï¿½ vai tirar
 a parte pessoal?
 
 102
 00:14:13,371 --> 00:14:16,045
-O que você vai deixar,
-só as bobagens?
+O que vocï¿½ vai deixar,
+sï¿½ as bobagens?
 
 103
 00:14:16,080 --> 00:14:17,704
-Você quer ser
+Vocï¿½ quer ser
 uma escritora?
 
 104
@@ -1601,27 +1601,27 @@ uma escritora?
 105
 00:14:20,317 --> 00:14:22,784
 -Pai!
--Você quer ser escritora?
+-Vocï¿½ quer ser escritora?
 
 106
 00:14:23,331 --> 00:14:25,881
 -Sim.
--Está com medo de magoar alguém?
+-Estï¿½ com medo de magoar alguï¿½m?
 
 107
 00:14:25,882 --> 00:14:27,489
--Ela está disposta a isso.
+-Ela estï¿½ disposta a isso.
 -Pai.
 
 108
 00:14:27,490 --> 00:14:29,906
 Sarah, isso certamente
-é sobre a sua família.
+ï¿½ sobre a sua famï¿½lia.
 
 109
 00:14:29,907 --> 00:14:31,851
 O que eu estou
-perguntando é
+perguntando ï¿½
 
 110
 00:14:31,886 --> 00:14:34,146
@@ -1635,12 +1635,12 @@ Sim.
 112
 00:14:36,241 --> 00:14:40,867
 Seu pai salvou a minha vida
-na guerra do Vietnã.
+na guerra do Vietnï¿½.
 
 113
 00:14:40,902 --> 00:14:44,084
 E antes mesmo de eu parar
-de culpá-lo por isso,
+de culpï¿½-lo por isso,
 
 114
 00:14:44,119 --> 00:14:47,071
@@ -1659,12 +1659,12 @@ seja ela boa ou ruim.
 
 117
 00:14:58,512 --> 00:15:00,108
-Eu não sei o que...
+Eu nï¿½o sei o que...
 
 118
 00:15:00,970 --> 00:15:04,331
 Eu acho que a palavra
-que você está procurando é...
+que vocï¿½ estï¿½ procurando ï¿½...
 
 119
 00:15:04,700 --> 00:15:06,594
@@ -1684,7 +1684,7 @@ Querido.
 
 123
 00:15:18,991 --> 00:15:22,156
-Você quer mesmo transferir
+Vocï¿½ quer mesmo transferir
 o Max para o ensino regular?
 
 124
@@ -1693,22 +1693,22 @@ Sim.
 
 125
 00:15:27,071 --> 00:15:29,330
-Ele já esteve numa escola
-normal e não foi bom.
+Ele jï¿½ esteve numa escola
+normal e nï¿½o foi bom.
 
 126
 00:15:29,365 --> 00:15:30,947
-Lembra quão ruim foi?
+Lembra quï¿½o ruim foi?
 
 127
 00:15:30,948 --> 00:15:33,003
-Ele está crescendo
+Ele estï¿½ crescendo
 aos trancos e barrancos.
 
 128
 00:15:33,038 --> 00:15:35,968
-Ele está se comportando melhor
-e está mais sociável
+Ele estï¿½ se comportando melhor
+e estï¿½ mais sociï¿½vel
 
 129
 00:15:36,003 --> 00:15:37,585
@@ -1717,23 +1717,23 @@ lidar com isso.
 
 130
 00:15:37,586 --> 00:15:40,371
-Lidar? Não quero que ele tenha
+Lidar? Nï¿½o quero que ele tenha
 que lidar com coisa alguma.
 
 131
 00:15:40,372 --> 00:15:43,513
-Quero que ele cresça
+Quero que ele cresï¿½a
 e seja bom no lugar dele,
 
 132
 00:15:43,514 --> 00:15:45,326
 e o lugar dele agora
-é a Footpath.
+ï¿½ a Footpath.
 
 133
 00:15:45,327 --> 00:15:47,873
-Parece que está dizendo
-que é mais importante
+Parece que estï¿½ dizendo
+que ï¿½ mais importante
 
 134
 00:15:47,874 --> 00:15:50,417
@@ -1742,41 +1742,41 @@ do que academicamente.
 
 135
 00:15:50,452 --> 00:15:52,069
-Eu acho que são os dois.
+Eu acho que sï¿½o os dois.
 
 136
 00:15:52,104 --> 00:15:54,005
-Parece que você
-tem essa fixação
+Parece que vocï¿½
+tem essa fixaï¿½ï¿½o
 
 137
 00:15:54,040 --> 00:15:56,590
-que o ensino regular é
-uma cura mágica, mas não é.
+que o ensino regular ï¿½
+uma cura mï¿½gica, mas nï¿½o ï¿½.
 
 138
 00:15:56,591 --> 00:15:57,891
--Não acho.
+-Nï¿½o acho.
 -Acha sim.
 
 139
 00:15:57,892 --> 00:15:59,224
--Não acho, não.
+-Nï¿½o acho, nï¿½o.
 -Acha sim.
 
 140
 00:15:59,225 --> 00:16:01,261
-Ele está indo tão bem.
+Ele estï¿½ indo tï¿½o bem.
 Eles disseram isso.
 
 141
 00:16:01,262 --> 00:16:04,486
-Se nós quisermos mais desafio
+Se nï¿½s quisermos mais desafio
 eles podem fazer isso.
 
 142
 00:16:04,487 --> 00:16:06,158
-Não tem sentido
+Nï¿½o tem sentido
 mudar isso agora.
 
 143
@@ -1786,7 +1786,7 @@ e entendi teu ponto de vista.
 
 144
 00:16:08,657 --> 00:16:10,913
-Mas será que podemos
+Mas serï¿½ que podemos
 falar sobre isso depois?
 
 145
@@ -1796,7 +1796,7 @@ falar sobre isso depois?
 
 146
 00:16:12,534 --> 00:16:14,152
--Sim, é justo.
+-Sim, ï¿½ justo.
 -Certo.
 
 147
@@ -1811,26 +1811,26 @@ MENSAGEM DE VOZ
 149
 00:16:30,000 --> 00:16:31,868
 <i>Oi, Amber,
-é a Carly Barow.
+ï¿½ a Carly Barow.
 
 150
 00:16:31,903 --> 00:16:34,843
 <i>Eu falei com o diretor
-de admissões em Berkley.
+de admissï¿½es em Berkley.
 
 151
 00:16:34,878 --> 00:16:38,114
-<i>Então, me ligue quando puder.
+<i>Entï¿½o, me ligue quando puder.
 Obrigada, querida.
 
 152
 00:16:43,913 --> 00:16:46,567
-Se você estiver pedindo pizza,
+Se vocï¿½ estiver pedindo pizza,
 eu gosto de cogumelos.
 
 153
 00:16:47,483 --> 00:16:49,467
-Isso não foi engraçado.
+Isso nï¿½o foi engraï¿½ado.
 
 154
 00:16:49,993 --> 00:16:51,345
@@ -1839,31 +1839,31 @@ Gary.
 155
 00:16:51,380 --> 00:16:52,714
 -Gary.
--Você é o Gary.
+-Vocï¿½ ï¿½ o Gary.
 
 156
 00:16:52,749 --> 00:16:54,471
 Eu sabia disso.
-Só estava brincando.
+Sï¿½ estava brincando.
 
 157
 00:16:54,476 --> 00:16:57,218
-Bem, alguns de nós vamos
+Bem, alguns de nï¿½s vamos
 a um happy hour mais tarde
 
 158
 00:16:57,253 --> 00:16:58,553
-se você estiver a fim.
+se vocï¿½ estiver a fim.
 
 159
 00:16:58,554 --> 00:17:00,970
 -Mesmo?
--Sim, você sabe, nada de mais.
+-Sim, vocï¿½ sabe, nada de mais.
 
 160
 00:17:00,971 --> 00:17:03,147
 Tomar algumas cervejas,
-um pouco de diversão.
+um pouco de diversï¿½o.
 
 161
 00:17:03,182 --> 00:17:04,573
@@ -1872,16 +1872,16 @@ Casual?
 162
 00:17:07,180 --> 00:17:09,992
 Bem, parece interessante
-mas eu não posso.
+mas eu nï¿½o posso.
 
 163
 00:17:11,189 --> 00:17:14,951
 Certo, entendi.
-Você é uma daquelas pessoas...
+Vocï¿½ ï¿½ uma daquelas pessoas...
 
 164
 00:17:14,986 --> 00:17:17,625
-Não, na verdade...
+Nï¿½o, na verdade...
 Tem algumas coisas que
 
 165
@@ -1903,12 +1903,12 @@ Vou guardar o seu vale.
 
 169
 00:17:26,334 --> 00:17:28,068
-Até mais.
+Atï¿½ mais.
 
 170
 00:17:31,274 --> 00:17:33,185
 Tem certeza que
-está bem para dirigir?
+estï¿½ bem para dirigir?
 
 171
 00:17:33,186 --> 00:17:34,513
@@ -1917,13 +1917,13 @@ está bem para dirigir?
 
 172
 00:17:34,514 --> 00:17:36,651
-Isso é uma bela
+Isso ï¿½ uma bela
 caixa de metal.
 
 173
 00:17:36,652 --> 00:17:39,234
 -Eu sou cuidadoso.
--As ruas do campo são pequenas.
+-As ruas do campo sï¿½o pequenas.
 
 174
 00:17:42,311 --> 00:17:43,742
@@ -1936,33 +1936,33 @@ Obrigado.
 
 176
 00:17:49,477 --> 00:17:52,776
-Quando você pesquisar sobre mim
+Quando vocï¿½ pesquisar sobre mim
 na internet...
 
 177
 00:17:52,811 --> 00:17:54,865
 Algo que eu faria
-se fosse você...
+se fosse vocï¿½...
 
 178
 00:17:54,866 --> 00:17:57,803
-Você pode encontrar
+Vocï¿½ pode encontrar
 uma ou outra coisa ruim.
 
 179
 00:17:57,804 --> 00:18:02,176
-Tente não fazer o que muitos
+Tente nï¿½o fazer o que muitos
 andam fazendo facilmente e...
 
 180
 00:18:02,177 --> 00:18:05,953
-Não me julgue
+Nï¿½o me julgue
 prematuramente.
 
 181
 00:18:10,384 --> 00:18:12,377
-Eu não vou
-se você não fizer.
+Eu nï¿½o vou
+se vocï¿½ nï¿½o fizer.
 
 182
 00:18:13,669 --> 00:18:15,448
@@ -1984,27 +1984,27 @@ Coisas ruins?
 
 186
 00:18:37,581 --> 00:18:39,402
-Bem, é que por cerca
-de uma década
+Bem, ï¿½ que por cerca
+de uma dï¿½cada
 
 187
 00:18:39,403 --> 00:18:40,915
 ele virou meio que
-um mistério.
+um mistï¿½rio.
 
 188
 00:18:40,916 --> 00:18:43,913
-Pai, quem é esse cara?
-Para quem você deu minha peça?
+Pai, quem ï¿½ esse cara?
+Para quem vocï¿½ deu minha peï¿½a?
 
 189
 00:18:43,914 --> 00:18:45,214
-BANDA COM MAMÃE E PAPAI
+BANDA COM MAMï¿½E E PAPAI
 
 190
 00:18:45,215 --> 00:18:47,144
 Lembra quando
-estávamos em Nova Iorque?
+estï¿½vamos em Nova Iorque?
 
 191
 00:18:47,145 --> 00:18:49,217
@@ -2012,21 +2012,21 @@ E lembra do Halloween?
 
 192
 00:18:49,252 --> 00:18:50,797
-E isso é daquele
+E isso ï¿½ daquele
 jogo de futebol
 
 193
 00:18:50,832 --> 00:18:52,653
-que você marcou
+que vocï¿½ marcou
 todos os touchdowns.
 
 194
 00:18:52,688 --> 00:18:54,072
-Não marquei tantos assim.
+Nï¿½o marquei tantos assim.
 
 195
 00:18:54,107 --> 00:18:57,259
-Papai disse que você
+Papai disse que vocï¿½
 foi a estrela do time.
 
 196
@@ -2040,7 +2040,7 @@ Sim. E este aqui.
 198
 00:19:00,930 --> 00:19:03,539
 Papai pediu pra perguntar
-que música ele tava tocando.
+que mï¿½sica ele tava tocando.
 
 199
 00:19:03,540 --> 00:19:05,044
@@ -2050,12 +2050,12 @@ sua favorita.
 200
 00:19:05,914 --> 00:19:09,667
 Certo.
-Bem, é "Kansas City"
+Bem, ï¿½ "Kansas City"
 
 201
 00:19:09,702 --> 00:19:12,857
-e não é das minhas favoritas,
-e sim da vovó Renee.
+e nï¿½o ï¿½ das minhas favoritas,
+e sim da vovï¿½ Renee.
 
 202
 00:19:12,858 --> 00:19:15,822
@@ -2068,7 +2068,7 @@ Eu tive uma ideia.
 
 204
 00:19:20,326 --> 00:19:22,964
-Isso tudo é ótimo,
+Isso tudo ï¿½ ï¿½timo,
 e eu adorei.
 
 205
@@ -2086,11 +2086,11 @@ Como...
 
 208
 00:19:29,369 --> 00:19:31,939
-Ver televisão!
+Ver televisï¿½o!
 
 209
 00:19:31,974 --> 00:19:33,390
-Sim, isso é bom.
+Sim, isso ï¿½ bom.
 
 210
 00:19:33,425 --> 00:19:36,169
@@ -2122,8 +2122,8 @@ vai ficar pronto?
 
 216
 00:19:50,183 --> 00:19:51,957
-Eu não sei, querido.
-Por quê?
+Eu nï¿½o sei, querido.
+Por quï¿½?
 
 217
 00:19:52,520 --> 00:19:54,731
@@ -2132,8 +2132,8 @@ a morar com a gente.
 
 218
 00:19:54,766 --> 00:19:56,894
-Faz tempo que não fazemos
-guerrinha d'água.
+Faz tempo que nï¿½o fazemos
+guerrinha d'ï¿½gua.
 
 1
 00:20:02,716 --> 00:20:04,716
@@ -2141,15 +2141,15 @@ Como se escreve casadinhos?
 
 2
 00:20:22,881 --> 00:20:24,240
-<i>Alô?
+<i>Alï¿½?
 
 3
 00:20:24,241 --> 00:20:26,124
-Oi, Carly, é a Amber.
+Oi, Carly, ï¿½ a Amber.
 
 4
 00:20:26,125 --> 00:20:29,288
-Estou retornando a ligação.
+Estou retornando a ligaï¿½ï¿½o.
 Recebi sua mensagem.
 
 5
@@ -2159,13 +2159,13 @@ para te dizer
 
 6
 00:20:30,834 --> 00:20:32,929
-que falei com o Pró-Reitor
-de Graduação,
+que falei com o Prï¿½-Reitor
+de Graduaï¿½ï¿½o,
 
 7
 00:20:32,930 --> 00:20:37,315
-e receio não ter boas notícias.
-Você não passou.
+e receio nï¿½o ter boas notï¿½cias.
+Vocï¿½ nï¿½o passou.
 
 8
 00:20:37,316 --> 00:20:39,481
@@ -2177,8 +2177,8 @@ Tudo bem.
 
 10
 00:20:41,695 --> 00:20:44,670
-<i>As cartas não chegarão
-até o final da semana,
+<i>As cartas nï¿½o chegarï¿½o
+atï¿½ o final da semana,
 
 11
 00:20:44,671 --> 00:20:47,013
@@ -2188,17 +2188,17 @@ eu gostaria de saber,
 12
 00:20:47,014 --> 00:20:49,438
 <i>por isso liguei. Eu espero
-que não haja problema.
+que nï¿½o haja problema.
 
 13
 00:20:49,439 --> 00:20:51,986
-Eu agradeço.
+Eu agradeï¿½o.
 Obrigada.
 
 14
 00:20:51,987 --> 00:20:56,742
-<i>Amber, você é incrível,
-e terá muitas oportunidades.
+<i>Amber, vocï¿½ ï¿½ incrï¿½vel,
+e terï¿½ muitas oportunidades.
 
 15
 00:20:56,777 --> 00:20:58,670
@@ -2208,7 +2208,7 @@ e terá muitas oportunidades.
 16
 00:20:58,671 --> 00:21:00,781
 Obrigada.
-Eu agradeço.
+Eu agradeï¿½o.
 
 17
 00:21:12,884 --> 00:21:14,222
@@ -2216,8 +2216,8 @@ Certo, certo.
 
 18
 00:21:14,223 --> 00:21:16,371
-Não, Syd.
-Não jogue sua mochila.
+Nï¿½o, Syd.
+Nï¿½o jogue sua mochila.
 
 19
 00:21:16,372 --> 00:21:18,207
@@ -2226,12 +2226,12 @@ no seu quarto, querida.
 
 20
 00:21:18,208 --> 00:21:21,303
--Aqui não é hotel.
--É muito longe.
+-Aqui nï¿½o ï¿½ hotel.
+-ï¿½ muito longe.
 
 21
 00:21:21,304 --> 00:21:23,304
-Alô?
+Alï¿½?
 
 22
 00:21:29,117 --> 00:21:32,218
@@ -2240,32 +2240,32 @@ Muito obrigado.
 
 23
 00:21:32,674 --> 00:21:35,252
-É isso aí! Meus meninos
+ï¿½ isso aï¿½! Meus meninos
 consegue nadar!
 
 24
 00:21:35,494 --> 00:21:38,946
--Nadar? Nós vamos pescar?
--Não, não, querida.
+-Nadar? Nï¿½s vamos pescar?
+-Nï¿½o, nï¿½o, querida.
 
 25
 00:21:39,014 --> 00:21:41,852
-Papai só foi bem
+Papai sï¿½ foi bem
 em um teste.
 
 26
 00:21:41,853 --> 00:21:43,853
 Quando conseguiremos
-o aquário?
+o aquï¿½rio?
 
 27
 00:21:43,919 --> 00:21:46,583
 Eu...
-Não tenho certeza...
+Nï¿½o tenho certeza...
 
 28
 00:21:46,584 --> 00:21:48,765
-Vou ligar para sua mãe
+Vou ligar para sua mï¿½e
 bem rapidinho.
 
 29
@@ -2275,12 +2275,12 @@ Obrigado.
 
 30
 00:21:52,807 --> 00:21:54,377
-Ótimas notícias!
+ï¿½timas notï¿½cias!
 
 31
 00:21:54,378 --> 00:21:55,957
 Viu?
-Não entendo.
+Nï¿½o entendo.
 
 32
 00:21:55,958 --> 00:21:58,206
@@ -2293,17 +2293,17 @@ no Royale nos anos 70.
 
 34
 00:22:00,429 --> 00:22:03,255
-Pai, anos 70 é o jeito
-que você está buscando isso.
+Pai, anos 70 ï¿½ o jeito
+que vocï¿½ estï¿½ buscando isso.
 
 35
 00:22:03,256 --> 00:22:05,281
-Não procure pela peça.
-Faça isso.
+Nï¿½o procure pela peï¿½a.
+Faï¿½a isso.
 
 36
 00:22:05,282 --> 00:22:07,536
-Sente-se aqui e faça você.
+Sente-se aqui e faï¿½a vocï¿½.
 
 37
 00:22:08,624 --> 00:22:10,624
@@ -2311,12 +2311,12 @@ Coloque o nome dele.
 
 38
 00:22:12,914 --> 00:22:14,754
--Aí está.
--É ele.
+-Aï¿½ estï¿½.
+-ï¿½ ele.
 
 39
 00:22:14,755 --> 00:22:17,284
--Sim, é ele.
+-Sim, ï¿½ ele.
 -Certo.
 
 40
@@ -2325,7 +2325,7 @@ Coloque o nome dele.
 
 41
 00:22:20,956 --> 00:22:23,307
-Créditos deles.
+Crï¿½ditos deles.
 Ele fez...
 
 42
@@ -2335,37 +2335,37 @@ da segunda avenida".
 
 43
 00:22:25,155 --> 00:22:26,569
-Pai, isso é muito Broadway.
+Pai, isso ï¿½ muito Broadway.
 
 44
 00:22:26,570 --> 00:22:28,821
--É isso que eu dizia!
--Isso é muito legal!
+-ï¿½ isso que eu dizia!
+-Isso ï¿½ muito legal!
 
 45
 00:22:28,822 --> 00:22:30,633
-Olhe, "Época
+Olhe, "ï¿½poca
 de campeonato"...
 
 46
 00:22:30,634 --> 00:22:33,254
-Não, isso é nos anos 70, pai.
+Nï¿½o, isso ï¿½ nos anos 70, pai.
 Olhe anos 80.
 
 47
 00:22:33,435 --> 00:22:35,670
 Suco de picles.
-O que é isso?
+O que ï¿½ isso?
 
 48
 00:22:35,671 --> 00:22:38,209
-Não passou na Broadway,
-mas ainda sim é legítimo.
+Nï¿½o passou na Broadway,
+mas ainda sim ï¿½ legï¿½timo.
 
 49
 00:22:38,210 --> 00:22:40,593
 -O velho Teatro Globo.
--Muito bom, não?
+-Muito bom, nï¿½o?
 
 50
 00:22:40,594 --> 00:22:42,476
@@ -2389,16 +2389,16 @@ coisas bem legais,
 54
 00:22:49,725 --> 00:22:52,104
 e ele quer ler
-meu negócio.
+meu negï¿½cio.
 
 55
 00:22:52,105 --> 00:22:54,453
-Não é um negócio, querida.
-É uma peça.
+Nï¿½o ï¿½ um negï¿½cio, querida.
+ï¿½ uma peï¿½a.
 
 56
 00:22:54,454 --> 00:22:56,809
-Pai, é uma peça
+Pai, ï¿½ uma peï¿½a
 incompleta e...
 
 57
@@ -2408,12 +2408,12 @@ Gilliam T. Blount
 
 58
 00:22:59,963 --> 00:23:03,954
-irá voltar e fazer uma produção
+irï¿½ voltar e fazer uma produï¿½ï¿½o
 para comemorar o retorno,
 
 59
 00:23:03,955 --> 00:23:07,839
-e talvez dirija a peça
+e talvez dirija a peï¿½a
 de Sarah Tracy Braverman,
 
 60
@@ -2423,13 +2423,13 @@ no papel de Barry.
 
 61
 00:23:11,147 --> 00:23:13,312
--Até mais.
--O quê?
+-Atï¿½ mais.
+-O quï¿½?
 
 62
 00:23:13,313 --> 00:23:15,913
-Esqueça. Só pensei.
-Foi só um pensamento, querida.
+Esqueï¿½a. Sï¿½ pensei.
+Foi sï¿½ um pensamento, querida.
 
 63
 00:23:15,914 --> 00:23:18,715
@@ -2450,28 +2450,28 @@ O que faz aqui?
 
 67
 00:23:50,924 --> 00:23:53,781
--Fuçando nos álbuns de fotos.
--Para quê?
+-Fuï¿½ando nos ï¿½lbuns de fotos.
+-Para quï¿½?
 
 68
 00:23:53,782 --> 00:23:56,450
-É para a semana
+ï¿½ para a semana
 do Jabbar na escola,
 
 69
 00:23:56,518 --> 00:23:58,748
-então estou tentando
+entï¿½o estou tentando
 relembrar momentos
 
 70
 00:23:58,749 --> 00:24:01,052
--divertidos em família.
+-divertidos em famï¿½lia.
 -Semana do Jabbar?
 
 71
 00:24:01,087 --> 00:24:04,119
--Isso é demais!
--É um trabalho do Jabbar.
+-Isso ï¿½ demais!
+-ï¿½ um trabalho do Jabbar.
 
 72
 00:24:04,120 --> 00:24:07,353
@@ -2494,7 +2494,7 @@ Lembra-se disso?
 
 76
 00:24:14,685 --> 00:24:16,685
-do dia de Ação de Graças?
+do dia de Aï¿½ï¿½o de Graï¿½as?
 
 77
 00:24:18,223 --> 00:24:20,307
@@ -2502,27 +2502,27 @@ Foi muito legal.
 
 78
 00:24:20,375 --> 00:24:23,310
-Está esperando
-que essas memórias
+Estï¿½ esperando
+que essas memï¿½rias
 
 79
 00:24:23,378 --> 00:24:26,463
-façam Jasmine...
+faï¿½am Jasmine...
 lembrar os bons tempos
 
 80
 00:24:26,464 --> 00:24:28,697
-e que você ganhe
+e que vocï¿½ ganhe
 ela de volta?
 
 81
 00:24:28,698 --> 00:24:32,165
-É tão óbvio assim?
-É, né?
+ï¿½ tï¿½o ï¿½bvio assim?
+ï¿½, nï¿½?
 
 82
 00:24:33,999 --> 00:24:36,575
-Não sei mais
+Nï¿½o sei mais
 o que fazer.
 
 83
@@ -2557,7 +2557,7 @@ Querido, recebi um telefonema
 
 3
 00:25:15,486 --> 00:25:17,832
-do diretor de admissões
+do diretor de admissï¿½es
 da escola de Sycamore
 
 4
@@ -2568,51 +2568,51 @@ um encontro com o Max.
 5
 00:25:19,760 --> 00:25:22,999
 -Sabe de algo a respeito?
--Eles já ligaram? Que rápido!
+-Eles jï¿½ ligaram? Que rï¿½pido!
 
 6
 00:25:26,303 --> 00:25:29,651
--Adam, o que está fazendo?
--Não estou fazendo nada.
+-Adam, o que estï¿½ fazendo?
+-Nï¿½o estou fazendo nada.
 
 7
 00:25:29,652 --> 00:25:32,237
-Não pode tomar
-essa decisão sozinho.
+Nï¿½o pode tomar
+essa decisï¿½o sozinho.
 
 8
 00:25:32,238 --> 00:25:35,110
--Já conversamos sobre isso.
--Eu acho que é uma boa escola.
+-Jï¿½ conversamos sobre isso.
+-Eu acho que ï¿½ uma boa escola.
 
 9
 00:25:35,111 --> 00:25:36,770
-Jabbar estuda lá.
-Sydney estuda lá.
+Jabbar estuda lï¿½.
+Sydney estuda lï¿½.
 
 10
 00:25:36,771 --> 00:25:38,319
--Os dois estudam lá.
+-Os dois estudam lï¿½.
 -Vamos ver.
 
 11
 00:25:38,320 --> 00:25:40,450
-Tá, mas precisamos estar
+Tï¿½, mas precisamos estar
 em sintonia nisso.
 
 12
 00:25:40,451 --> 00:25:42,513
-Você disparou e fez isso
-por conta própria.
+Vocï¿½ disparou e fez isso
+por conta prï¿½pria.
 
 13
 00:25:42,514 --> 00:25:45,038
-Não podemos esperar.
+Nï¿½o podemos esperar.
 Precisamos pagar a Footpath
 
 14
 00:25:45,039 --> 00:25:47,869
-até o fim da semana, então
+atï¿½ o fim da semana, entï¿½o
 se formos mudar o Max de escola,
 
 15
@@ -2627,7 +2627,7 @@ pagar a Footpath.
 
 17
 00:25:51,098 --> 00:25:52,518
-Senão perdemos
+Senï¿½o perdemos
 a vaga do Max.
 
 18
@@ -2642,22 +2642,22 @@ da lista de espera deles?
 
 20
 00:25:57,430 --> 00:25:58,897
-mas não podemos
-decidir rápido.
+mas nï¿½o podemos
+decidir rï¿½pido.
 
 21
 00:25:58,898 --> 00:26:01,875
-Ele é inteligente demais para
+Ele ï¿½ inteligente demais para
 Footpath. Foi isso que disseram.
 
 22
 00:26:01,876 --> 00:26:03,601
 Disseram que podem
-mudar o currículo
+mudar o currï¿½culo
 
 23
 00:26:03,602 --> 00:26:05,310
-e deixá-lo mais desafiador
+e deixï¿½-lo mais desafiador
 para ele.
 
 24
@@ -2667,17 +2667,17 @@ mas acho que o Max precisa
 
 25
 00:26:07,415 --> 00:26:09,583
-de um arranjo acadêmico
+de um arranjo acadï¿½mico
 mais vigoroso.
 
 26
 00:26:09,651 --> 00:26:11,886
 Max precisa,
-ou você precisa?
+ou vocï¿½ precisa?
 
 27
 00:26:11,953 --> 00:26:13,789
--O quê?
+-O quï¿½?
 -Sei que quer que nosso filho
 
 28
@@ -2687,13 +2687,13 @@ numa escola normal.
 
 29
 00:26:15,994 --> 00:26:17,460
-Também quero, Adam,
+Tambï¿½m quero, Adam,
 acredite.
 
 30
 00:26:17,461 --> 00:26:19,678
 Kristina, sei que meu filho
-tem Asperger, tá?
+tem Asperger, tï¿½?
 
 31
 00:26:19,679 --> 00:26:21,028
@@ -2701,37 +2701,37 @@ Sei que ele tem problemas.
 
 32
 00:26:21,096 --> 00:26:23,218
-Quero que ele vá a uma escola
+Quero que ele vï¿½ a uma escola
 onde aprenda,
 
 33
 00:26:23,219 --> 00:26:26,965
-onde cresça, onde tenha a melhor
+onde cresï¿½a, onde tenha a melhor
 oportunidade de um bom futuro.
 
 34
 00:26:26,966 --> 00:26:29,787
 Certo, entendi. E se ele for
-o único garoto sem amigos?
+o ï¿½nico garoto sem amigos?
 
 35
 00:26:29,788 --> 00:26:32,374
--Esqueceu como tudo começou?
--Não esqueci de nada, tá?
+-Esqueceu como tudo comeï¿½ou?
+-Nï¿½o esqueci de nada, tï¿½?
 
 36
 00:26:32,375 --> 00:26:34,942
--Sei que é um risco.
--É um riso enorme.
+-Sei que ï¿½ um risco.
+-ï¿½ um riso enorme.
 
 37
 00:26:34,943 --> 00:26:36,743
-Qual é, Kristina.
-Já saímos dessa.
+Qual ï¿½, Kristina.
+Jï¿½ saï¿½mos dessa.
 
 38
 00:26:36,795 --> 00:26:39,546
-Ele já saiu dessa.
+Ele jï¿½ saiu dessa.
 
 39
 00:26:40,254 --> 00:26:41,829
@@ -2741,20 +2741,20 @@ me escute.
 40
 00:26:41,830 --> 00:26:43,601
 Quero o melhor
-pro nosso filho, tá?
+pro nosso filho, tï¿½?
 
 41
 00:26:44,688 --> 00:26:47,184
-E não quero tomar uma decisão
+E nï¿½o quero tomar uma decisï¿½o
 baseada em medo.
 
 42
 00:26:48,843 --> 00:26:50,279
-Não estou com medo.
+Nï¿½o estou com medo.
 
 43
 00:26:50,280 --> 00:26:52,680
-Kristina, não faz mal ter medo.
+Kristina, nï¿½o faz mal ter medo.
 Eu estou com medo.
 
 44
@@ -2764,25 +2764,25 @@ do que pode acontecer,
 
 45
 00:26:54,362 --> 00:26:56,696
-mas acho que é um risco
+mas acho que ï¿½ um risco
 que vale a pena correr.
 
 46
 00:26:57,806 --> 00:26:59,485
-Você tá errado.
+Vocï¿½ tï¿½ errado.
 
 47
 00:27:01,197 --> 00:27:02,541
-Está bem.
+Estï¿½ bem.
 
 48
 00:27:04,039 --> 00:27:05,973
-Então, minha parte
-favorita em dançar
+Entï¿½o, minha parte
+favorita em danï¿½ar
 
 49
 00:27:06,041 --> 00:27:08,898
-é que você pode
+ï¿½ que vocï¿½ pode
 movimentar o corpo.
 
 50
@@ -2791,7 +2791,7 @@ E o Jabbar gosta disso.
 
 51
 00:27:10,746 --> 00:27:12,867
-Não é mesmo?
+Nï¿½o ï¿½ mesmo?
 Mostre a eles.
 
 52
@@ -2805,13 +2805,13 @@ Mostre seu gingado.
 
 54
 00:27:24,419 --> 00:27:27,285
-Como você e o Sr. Crosby
+Como vocï¿½ e o Sr. Crosby
 se conheceram?
 
 55
 00:27:27,286 --> 00:27:29,665
 -Bem...
--Não, eu respondo essa.
+-Nï¿½o, eu respondo essa.
 
 56
 00:27:30,662 --> 00:27:32,812
@@ -2834,7 +2834,7 @@ uma linda princesa!
 
 60
 00:27:43,252 --> 00:27:45,662
-Não!
+Nï¿½o!
 
 61
 00:27:45,663 --> 00:27:47,457
@@ -2853,7 +2853,7 @@ nas docas do Central Park,
 64
 00:27:52,921 --> 00:27:55,539
 e tinha muita gente
-importante lá.
+importante lï¿½.
 
 65
 00:27:55,624 --> 00:27:57,424
@@ -2867,13 +2867,13 @@ muito chatas.
 
 67
 00:27:59,928 --> 00:28:02,997
-Então eu fui
+Entï¿½o eu fui
 para o lado de fora e...
 
 68
 00:28:03,064 --> 00:28:08,442
-Vi essa moça ajoelhada no chão,
-próximo a uma cadeira, cavando,
+Vi essa moï¿½a ajoelhada no chï¿½o,
+prï¿½ximo a uma cadeira, cavando,
 
 69
 00:28:08,443 --> 00:28:11,171
@@ -2882,7 +2882,7 @@ estava preso na grama.
 
 70
 00:28:11,239 --> 00:28:14,976
-Então eu me abaixei,
+Entï¿½o eu me abaixei,
 tirei o sapato dela da lama,
 
 71
@@ -2900,7 +2900,7 @@ e, naquele pequeno momento,
 
 74
 00:28:24,382 --> 00:28:26,686
-meu coração quase parou.
+meu coraï¿½ï¿½o quase parou.
 
 75
 00:28:26,738 --> 00:28:29,990
@@ -2909,11 +2909,11 @@ a mulher mais bonita
 
 76
 00:28:30,058 --> 00:28:32,426
-que eu já tinha visto na vida.
+que eu jï¿½ tinha visto na vida.
 
 77
 00:28:32,494 --> 00:28:36,046
-Então eu disse:
+Entï¿½o eu disse:
 "Oi, sou o Crosby".
 
 78
@@ -2923,7 +2923,7 @@ E ela disse:
 
 79
 00:28:39,901 --> 00:28:44,123
-E aí meu cérebro levou
+E aï¿½ meu cï¿½rebro levou
 um tempo para entender,
 
 80
@@ -2934,7 +2934,7 @@ assim mesmo,
 81
 00:28:46,022 --> 00:28:49,593
 mas naquele momento
-o meu coração soube...
+o meu coraï¿½ï¿½o soube...
 
 82
 00:28:49,677 --> 00:28:53,580
@@ -2948,7 +2948,7 @@ passar o resto da minha vida.
 
 84
 00:29:02,376 --> 00:29:05,176
-Desculpe, sei que não deve
+Desculpe, sei que nï¿½o deve
 ser da minha conta,
 
 85
@@ -2964,7 +2964,7 @@ ela estava aqui embaixo.
 87
 00:29:10,084 --> 00:29:11,717
 Tudo bem,
-você fez a coisa certa.
+vocï¿½ fez a coisa certa.
 
 88
 00:29:11,718 --> 00:29:13,036
@@ -2972,12 +2972,12 @@ Gary.
 
 89
 00:29:13,103 --> 00:29:14,454
-Onde ela está?
+Onde ela estï¿½?
 
 90
 00:29:22,431 --> 00:29:24,482
 Que diabos
-você está fazendo?
+vocï¿½ estï¿½ fazendo?
 
 91
 00:29:24,483 --> 00:29:27,626
@@ -2986,17 +2986,17 @@ Porque...
 
 92
 00:29:27,627 --> 00:29:29,787
-Amber, este é o carro
+Amber, este ï¿½ o carro
 do meu chefe.
 
 93
 00:29:29,788 --> 00:29:31,392
-O quê?
+O quï¿½?
 
 94
 00:29:31,393 --> 00:29:33,796
 -Certo...
--Você tá chapada?
+-Vocï¿½ tï¿½ chapada?
 
 95
 00:29:33,797 --> 00:29:35,423
@@ -3005,12 +3005,12 @@ Eu estou...
 96
 00:29:35,424 --> 00:29:37,653
 -Chapada.
--Está bem.
+-Estï¿½ bem.
 
 97
 00:29:37,654 --> 00:29:40,045
 -Estou enlouquecendo.
--Está bem.
+-Estï¿½ bem.
 
 98
 00:29:40,046 --> 00:29:41,357
@@ -3019,52 +3019,52 @@ Ai, meu Deus.
 99
 00:29:42,474 --> 00:29:44,085
 Desculpa.
-Você está brava.
+Vocï¿½ estï¿½ brava.
 
 100
 00:29:44,086 --> 00:29:45,972
 -Estou.
--Isso é ruim, muito ruim.
+-Isso ï¿½ ruim, muito ruim.
 
 101
 00:29:45,973 --> 00:29:49,463
-Amber, isso não é o fundo do
-ginásio da escola o algo assim.
+Amber, isso nï¿½o ï¿½ o fundo do
+ginï¿½sio da escola o algo assim.
 
 102
 00:29:49,464 --> 00:29:51,495
-Eu apadrinhei você.
+Eu apadrinhei vocï¿½.
 Eu trabalho aqui.
 
 103
 00:29:51,496 --> 00:29:54,018
--É.
--O que está acontecendo?
+-ï¿½.
+-O que estï¿½ acontecendo?
 
 104
 00:29:55,726 --> 00:29:59,932
-Eu não entrei para a faculdade.
+Eu nï¿½o entrei para a faculdade.
 Para nenhuma.
 
 1
 00:30:01,118 --> 00:30:04,453
 E descobri
-há alguns dias.
+hï¿½ alguns dias.
 
 2
 00:30:04,454 --> 00:30:10,454
-E estou tão envergonhada,
+E estou tï¿½o envergonhada,
 confusa e chateada. Eu...
 
 3
 00:30:10,455 --> 00:30:13,729
-Não sei
+Nï¿½o sei
 o que vou fazer e...
 
 4
 00:30:13,730 --> 00:30:16,750
-Não tinha com quem conversar,
-sabe como é...
+Nï¿½o tinha com quem conversar,
+sabe como ï¿½...
 
 5
 00:30:16,751 --> 00:30:19,500
@@ -3074,7 +3074,7 @@ E fiz isso aqui.
 6
 00:30:19,501 --> 00:30:23,450
 Pensei que me sentiria melhor,
-mas só me sinto estranha.
+mas sï¿½ me sinto estranha.
 
 7
 00:30:23,451 --> 00:30:27,390
@@ -3084,31 +3084,31 @@ por ter feito isso aqui...
 8
 00:30:27,391 --> 00:30:29,678
 no seu trabalho.
-É muito...
+ï¿½ muito...
 
 9
 00:30:29,679 --> 00:30:32,300
 Sabe que deve conversar
-com sua mãe.
+com sua mï¿½e.
 
 10
 00:30:34,083 --> 00:30:37,186
--Ela ficará tão brava.
--Não ficará.
+-Ela ficarï¿½ tï¿½o brava.
+-Nï¿½o ficarï¿½.
 
 11
 00:30:37,187 --> 00:30:39,521
-Ela irá te apoiar,
-está certo?
+Ela irï¿½ te apoiar,
+estï¿½ certo?
 
 12
 00:30:39,522 --> 00:30:44,027
-Você está exagerando.
+Vocï¿½ estï¿½ exagerando.
 Ela te ama muito.
 
 13
 00:30:44,695 --> 00:30:47,763
-Certo? E se sentirá melhor
+Certo? E se sentirï¿½ melhor
 quando contar a ela.
 
 14
@@ -3131,11 +3131,11 @@ Certo.
 18
 00:31:02,263 --> 00:31:04,563
 -Quero produzi-lo.
--Ótimo!
+-ï¿½timo!
 
 19
 00:31:04,564 --> 00:31:06,030
-Você gostou?
+Vocï¿½ gostou?
 
 20
 00:31:06,850 --> 00:31:08,417
@@ -3144,28 +3144,28 @@ Você gostou?
 
 21
 00:31:08,418 --> 00:31:11,320
-Digo, não gostei
-do jeito que está.
+Digo, nï¿½o gostei
+do jeito que estï¿½.
 
 22
 00:31:11,321 --> 00:31:14,830
-Gostei do que está tentando
+Gostei do que estï¿½ tentando
 sair dele.
 
 23
 00:31:14,831 --> 00:31:16,291
 O resto
-é meio que um lixo.
+ï¿½ meio que um lixo.
 
 24
 00:31:16,292 --> 00:31:20,230
-Mas o que está escondido
-nele é genial.
+Mas o que estï¿½ escondido
+nele ï¿½ genial.
 
 25
 00:31:21,697 --> 00:31:23,760
-Então gostou ou não?
-Não entendi.
+Entï¿½o gostou ou nï¿½o?
+Nï¿½o entendi.
 
 26
 00:31:23,761 --> 00:31:28,237
@@ -3174,13 +3174,13 @@ que encobre brilhantes
 
 27
 00:31:28,238 --> 00:31:30,800
-observações
-sobre essa família.
+observaï¿½ï¿½es
+sobre essa famï¿½lia.
 
 28
 00:31:30,801 --> 00:31:32,440
 Pode ser
-mais específico?
+mais especï¿½fico?
 
 29
 00:31:32,441 --> 00:31:34,220
@@ -3200,37 +3200,37 @@ em todos os sentidos.
 32
 00:31:39,531 --> 00:31:41,200
 Como diz isso?
-Não é uma porcaria!
+Nï¿½o ï¿½ uma porcaria!
 
 33
 00:31:41,201 --> 00:31:42,501
--É o auge...
--Está certa.
+-ï¿½ o auge...
+-Estï¿½ certa.
 
 34
 00:31:42,502 --> 00:31:44,220
 -do primeiro ato!
--Está certíssima.
+-Estï¿½ certï¿½ssima.
 
 35
 00:31:44,221 --> 00:31:45,860
 Desculpe-me.
-É só horrível.
+ï¿½ sï¿½ horrï¿½vel.
 
 36
 00:31:45,861 --> 00:31:47,889
 Como assim?
-Ele é um homem simples.
+Ele ï¿½ um homem simples.
 
 37
 00:31:47,890 --> 00:31:49,380
 Fala ingenuamente
-do coração.
+do coraï¿½ï¿½o.
 
 38
 00:31:49,381 --> 00:31:51,800
-Então vamos... Vamos...
-Tive uma ótima ideia.
+Entï¿½o vamos... Vamos...
+Tive uma ï¿½tima ideia.
 
 39
 00:31:51,801 --> 00:31:53,130
@@ -3239,18 +3239,18 @@ Tive uma ótima ideia.
 
 40
 00:31:53,131 --> 00:31:55,500
-Não estamos celebrando.
+Nï¿½o estamos celebrando.
 Estamos discutindo.
 
 41
 00:31:55,501 --> 00:31:57,200
-Não existe
+Nï¿½o existe
 homem simples.
 
 42
 00:31:57,201 --> 00:31:59,251
 Ou Marty
-é um simples açougueiro?
+ï¿½ um simples aï¿½ougueiro?
 
 43
 00:31:59,252 --> 00:32:01,336
@@ -3260,30 +3260,30 @@ um simples caminhoneiro?
 44
 00:32:01,337 --> 00:32:05,030
 Todos no teatro
-têm uma voz.
+tï¿½m uma voz.
 
 45
 00:32:05,031 --> 00:32:10,879
 Veja aqui. "Vivi todos esse anos
-e nunca compreendi, era você.
+e nunca compreendi, era vocï¿½.
 
 46
 00:32:10,880 --> 00:32:13,950
-Estava lá o tempo todo,
+Estava lï¿½ o tempo todo,
 mas vejo isso agora."
 
 47
 00:32:14,651 --> 00:32:16,985
-Não é o suficiente.
+Nï¿½o ï¿½ o suficiente.
 
 48
 00:32:18,821 --> 00:32:20,250
-É uma má hora?
+ï¿½ uma mï¿½ hora?
 
 49
 00:32:20,251 --> 00:32:21,656
 -Oi. Desculpe.
--Oi, não.
+-Oi, nï¿½o.
 
 50
 00:32:21,657 --> 00:32:23,130
@@ -3292,13 +3292,13 @@ Não é o suficiente.
 
 51
 00:32:23,131 --> 00:32:24,700
-A peça de sua mãe
-será produzida.
+A peï¿½a de sua mï¿½e
+serï¿½ produzida.
 
 52
 00:32:24,701 --> 00:32:27,390
--Sério?
--Estamos no começo
+-Sï¿½rio?
+-Estamos no comeï¿½o
 
 53
 00:32:27,391 --> 00:32:28,697
@@ -3307,23 +3307,23 @@ será produzida.
 
 54
 00:32:28,698 --> 00:32:31,780
-Conheça Amber, minha neta.
-Esse é Gilliam T. Blount.
+Conheï¿½a Amber, minha neta.
+Esse ï¿½ Gilliam T. Blount.
 
 55
 00:32:31,781 --> 00:32:34,805
-Você que é
+Vocï¿½ que ï¿½
 o misterioso...
 
 56
 00:32:34,806 --> 00:32:40,806
 -cara sombrio e baixinho.
--É exatamente o que sou.
+-ï¿½ exatamente o que sou.
 
 57
 00:32:40,807 --> 00:32:43,990
--Não te descrevi assim.
--Não colocaria de forma melhor.
+-Nï¿½o te descrevi assim.
+-Nï¿½o colocaria de forma melhor.
 
 58
 00:32:43,991 --> 00:32:45,748
@@ -3336,13 +3336,13 @@ Estou cansada...
 
 60
 00:32:48,751 --> 00:32:50,470
--Você está bem?
+-Vocï¿½ estï¿½ bem?
 -Prazer te conhecer.
 
 61
 00:32:50,471 --> 00:32:52,500
--Irei lá para cima.
--Querida, já subirei.
+-Irei lï¿½ para cima.
+-Querida, jï¿½ subirei.
 
 62
 00:32:52,501 --> 00:32:54,289
@@ -3351,12 +3351,12 @@ Estou cansada...
 
 63
 00:32:54,290 --> 00:32:56,492
--Fique à vontade.
+-Fique ï¿½ vontade.
 -Obrigado.
 
 64
 00:32:56,593 --> 00:32:58,200
-E para minha adorável
+E para minha adorï¿½vel
 
 65
 00:32:58,201 --> 00:33:00,262
@@ -3379,23 +3379,23 @@ Certo. Agora sim.
 
 69
 00:33:19,615 --> 00:33:22,209
-Sei que não deveria
+Sei que nï¿½o deveria
 estar aqui, mas passei
 
 70
 00:33:22,210 --> 00:33:24,653
 para ver como foi
-a reunião na escola.
+a reuniï¿½o na escola.
 
 71
 00:33:25,154 --> 00:33:27,450
-Por quê?
-Não é mais a auxiliar de Max.
+Por quï¿½?
+Nï¿½o ï¿½ mais a auxiliar de Max.
 
 72
 00:33:28,373 --> 00:33:31,072
-Eu sei. É só que...
-Estou com a cabeça nisso
+Eu sei. ï¿½ sï¿½ que...
+Estou com a cabeï¿½a nisso
 
 73
 00:33:31,073 --> 00:33:34,470
@@ -3418,32 +3418,32 @@ Certo.
 
 77
 00:33:44,206 --> 00:33:47,043
-Estamos pensando em colocá-lo
+Estamos pensando em colocï¿½-lo
 no ensino regular.
 
 78
 00:33:48,544 --> 00:33:50,095
-Sério?
+Sï¿½rio?
 
 79
 00:33:50,096 --> 00:33:52,500
-Sério. É uma ideia
+Sï¿½rio. ï¿½ uma ideia
 louca, mas...
 
 80
 00:33:52,501 --> 00:33:55,900
-Não, é...
-É ótimo.
+Nï¿½o, ï¿½...
+ï¿½ ï¿½timo.
 
 81
 00:33:55,901 --> 00:33:59,400
-Não sei.
+Nï¿½o sei.
 Estou um pouco preocupada.
 
 82
 00:34:02,524 --> 00:34:05,627
 Pode entrar se quiser.
-Só estou levando essas coisas.
+Sï¿½ estou levando essas coisas.
 
 83
 00:34:05,628 --> 00:34:06,928
@@ -3451,7 +3451,7 @@ Tudo bem.
 
 84
 00:34:09,048 --> 00:34:10,700
-Quer café?
+Quer cafï¿½?
 
 85
 00:34:11,201 --> 00:34:13,400
@@ -3466,22 +3466,22 @@ de mais cedo.
 87
 00:34:20,000 --> 00:34:22,530
 Em qual escola
-estão pensando?
+estï¿½o pensando?
 
 88
 00:34:22,531 --> 00:34:24,312
 -Sycamore.
--É uma ótima escola.
+-ï¿½ uma ï¿½tima escola.
 
 89
 00:34:24,313 --> 00:34:27,215
-É. Adam está muito animado
+ï¿½. Adam estï¿½ muito animado
 com isso.
 
 90
 00:34:27,216 --> 00:34:29,640
--E você não?
--Na verdade, não estou.
+-E vocï¿½ nï¿½o?
+-Na verdade, nï¿½o estou.
 
 91
 00:34:29,641 --> 00:34:31,740
@@ -3491,86 +3491,86 @@ com ele.
 92
 00:34:31,741 --> 00:34:34,288
 Sofrer preconceitos.
-Ele está tão seguro onde está.
+Ele estï¿½ tï¿½o seguro onde estï¿½.
 
 93
 00:34:34,289 --> 00:34:37,850
-Não quero arrancá-lo
-desse ambiente e jogá-lo em...
+Nï¿½o quero arrancï¿½-lo
+desse ambiente e jogï¿½-lo em...
 
 94
 00:34:37,851 --> 00:34:41,380
-Sabe como é.
+Sabe como ï¿½.
 Ter que passar por isso e...
 
 95
 00:34:41,381 --> 00:34:45,110
 Explicar aos outros pais
-porque seu filho é diferente
+porque seu filho ï¿½ diferente
 
 96
 00:34:45,111 --> 00:34:48,310
-porque ele não vai às festinhas
+porque ele nï¿½o vai ï¿½s festinhas
 ou pratica esportes.
 
 97
 00:34:48,311 --> 00:34:52,200
-Já fiz isso, já me expliquei.
-Não quero fazer nunca mais.
+Jï¿½ fiz isso, jï¿½ me expliquei.
+Nï¿½o quero fazer nunca mais.
 
 98
 00:34:52,906 --> 00:34:56,769
-O que é patético e terrível,
-sou uma pessoa terrível...
+O que ï¿½ patï¿½tico e terrï¿½vel,
+sou uma pessoa terrï¿½vel...
 
 99
 00:34:56,770 --> 00:34:58,137
--Não.
--por dizer isso. É sim.
+-Nï¿½o.
+-por dizer isso. ï¿½ sim.
 
 100
 00:34:58,138 --> 00:35:00,150
-Mas é como Adam diz.
+Mas ï¿½ como Adam diz.
 E se...
 
 101
 00:35:00,151 --> 00:35:01,900
-Max for um gênio
-da Matemática
+Max for um gï¿½nio
+da Matemï¿½tica
 
 102
 00:35:01,901 --> 00:35:03,952
-ou da ciência,
+ou da ciï¿½ncia,
 essas coisas.
 
 103
 00:35:03,953 --> 00:35:07,800
 E eu o conter por estar
-preocupada em mantê-lo seguro?
+preocupada em mantï¿½-lo seguro?
 
 104
 00:35:08,501 --> 00:35:10,860
 Se for assim,
-não vou suportar viver.
+nï¿½o vou suportar viver.
 
 105
 00:35:10,861 --> 00:35:12,230
--Vou só...
+-Vou sï¿½...
 -Kristina.
 
 106
 00:35:12,231 --> 00:35:15,031
--Não quero que ele se machuque.
+-Nï¿½o quero que ele se machuque.
 -Kristina...
 
 107
 00:35:16,032 --> 00:35:18,700
-Está com preocupações,
-o que é normal, certo?
+Estï¿½ com preocupaï¿½ï¿½es,
+o que ï¿½ normal, certo?
 
 108
 00:35:18,701 --> 00:35:21,600
-Se não estivesse assim,
+Se nï¿½o estivesse assim,
 eu estaria preocupada.
 
 109
@@ -3580,13 +3580,13 @@ saber que tem Asperger
 
 110
 00:35:25,651 --> 00:35:28,700
-preocupa mais você
+preocupa mais vocï¿½
 do que ele mesmo.
 
 111
 00:35:28,701 --> 00:35:31,622
-A única variável incerta
-é seu comportamento
+A ï¿½nica variï¿½vel incerta
+ï¿½ seu comportamento
 
 112
 00:35:31,623 --> 00:35:34,400
@@ -3600,18 +3600,18 @@ muito bem no ensino regular.
 
 114
 00:35:41,390 --> 00:35:43,720
-Só quero ter certeza
-que ele ficará bem.
+Sï¿½ quero ter certeza
+que ele ficarï¿½ bem.
 
 115
 00:35:43,721 --> 00:35:46,962
 Gostaria que houvesse garantias,
-mas sabe que não há.
+mas sabe que nï¿½o hï¿½.
 
 116
 00:35:46,963 --> 00:35:49,265
 Nem para Max
-ou qualquer outra criança.
+ou qualquer outra crianï¿½a.
 
 117
 00:35:52,068 --> 00:35:55,550
@@ -3634,12 +3634,12 @@ Eu o colocaria.
 121
 00:36:09,485 --> 00:36:12,350
 Acho que Max
-está preparado.
+estï¿½ preparado.
 
 122
 00:36:12,351 --> 00:36:15,758
--Então o colocaria.
--Você colocaria.
+-Entï¿½o o colocaria.
+-Vocï¿½ colocaria.
 
 123
 00:36:20,550 --> 00:36:21,850
@@ -3652,17 +3652,17 @@ por causa disso.
 
 125
 00:36:23,951 --> 00:36:27,386
-Decepcionei você e o Max,
+Decepcionei vocï¿½ e o Max,
 e estou...
 
 126
 00:36:29,000 --> 00:36:32,008
--Estou tão arrependida.
+-Estou tï¿½o arrependida.
 -Tudo bem.
 
 127
 00:36:33,609 --> 00:36:35,100
-Vem cá.
+Vem cï¿½.
 
 128
 00:36:38,147 --> 00:36:39,547
@@ -3689,16 +3689,16 @@ para pegar o carro dele.
 
 133
 00:36:54,671 --> 00:36:55,989
-Oi, crianças.
+Oi, crianï¿½as.
 
 134
 00:36:56,490 --> 00:36:59,141
 Max sabe que deve fazer
-a lição antes de assistir TV.
+a liï¿½ï¿½o antes de assistir TV.
 
 135
 00:36:59,142 --> 00:37:01,400
--Terminei há uma hora.
+-Terminei hï¿½ uma hora.
 -Bom garoto.
 
 136
@@ -3731,7 +3731,7 @@ Meio...
 142
 00:37:19,563 --> 00:37:21,664
 -Posso imaginar.
--Desconfortável, sabe...
+-Desconfortï¿½vel, sabe...
 
 143
 00:37:21,665 --> 00:37:23,383
@@ -3773,36 +3773,36 @@ Estou nessa.
 
 151
 00:37:37,801 --> 00:37:39,101
--Sério?
--Sério.
+-Sï¿½rio?
+-Sï¿½rio.
 
 152
 00:37:40,283 --> 00:37:41,818
 -Tudo bem.
--É.
+-ï¿½.
 
 153
 00:37:43,121 --> 00:37:45,138
-Querida, não quero...
+Querida, nï¿½o quero...
 
 154
 00:37:45,139 --> 00:37:47,790
-Seguir adiante a não ser
+Seguir adiante a nï¿½o ser
 que esteja 100% certa.
 
 155
 00:37:47,791 --> 00:37:52,800
-Só acho que demanda
-muito esforço e tudo mais
+Sï¿½ acho que demanda
+muito esforï¿½o e tudo mais
 
 156
 00:37:52,801 --> 00:37:54,264
-para preencher a inscrição.
+para preencher a inscriï¿½ï¿½o.
 
 157
 00:37:54,265 --> 00:37:57,100
 Sabemos que no ensino especial
-a lista de espera é longa,
+a lista de espera ï¿½ longa,
 
 158
 00:37:57,101 --> 00:37:59,280
@@ -3811,7 +3811,7 @@ a lista de espera é longa,
 
 159
 00:37:59,281 --> 00:38:01,505
-Está 100%.
+Estï¿½ 100%.
 
 160
 00:38:07,277 --> 00:38:08,611
@@ -3824,11 +3824,11 @@ Tudo bem.
 162
 00:38:14,885 --> 00:38:16,853
 <i>Qual presidente russo
-da década de 1990
+da dï¿½cada de 1990
 
 163
 00:38:16,854 --> 00:38:19,499
-<i>perdeu um dedo quando criança
+<i>perdeu um dedo quando crianï¿½a
 por causa de uma granada?
 
 164
@@ -3838,12 +3838,12 @@ por causa de uma granada?
 
 165
 00:38:21,642 --> 00:38:23,459
-<i>-Não, primeiro strike.</i>
+<i>-Nï¿½o, primeiro strike.</i>
 -Isso!
 
 166
 00:38:23,460 --> 00:38:25,061
--Isso aí, Max.
+-Isso aï¿½, Max.
 -Nossa.
 
 167
@@ -3857,22 +3857,22 @@ quanto Gottfried Leibniz...
 
 169
 00:38:29,401 --> 00:38:31,201
--Cálculo.
+-Cï¿½lculo.
 <i>-inventaram...</i>
 
 170
 00:38:31,202 --> 00:38:33,340
--Cálculo!
-<i>-qual ramo matemático?</i>
+-Cï¿½lculo!
+<i>-qual ramo matemï¿½tico?</i>
 
 171
 00:38:33,341 --> 00:38:34,640
-<i>-Física.
--Iremos de Física.
+<i>-Fï¿½sica.
+-Iremos de Fï¿½sica.
 
 172
 00:38:34,641 --> 00:38:36,530
-<i>Não, segundo strike.
+<i>Nï¿½o, segundo strike.
 
 173
 00:38:36,531 --> 00:38:39,559
@@ -3881,12 +3881,12 @@ Como puderam errar?
 
 174
 00:38:40,560 --> 00:38:42,190
-É o certo a se fazer.
+ï¿½ o certo a se fazer.
 
 175
 00:38:42,191 --> 00:38:44,480
 Ganharia tanto dinheiro
-se estivesse lá.
+se estivesse lï¿½.
 
 176
 00:38:44,481 --> 00:38:47,850
@@ -3904,8 +3904,8 @@ Se ganhasse o programa.
 
 179
 00:39:07,604 --> 00:39:10,999
-Você contou
-lindas histórias...
+Vocï¿½ contou
+lindas histï¿½rias...
 
 180
 00:39:11,000 --> 00:39:13,111
@@ -3923,21 +3923,21 @@ daquele jeito.
 
 183
 00:39:20,701 --> 00:39:23,287
-Nós três formando
-uma família.
+Nï¿½s trï¿½s formando
+uma famï¿½lia.
 
 184
 00:39:27,791 --> 00:39:29,692
-Somos uma família.
+Somos uma famï¿½lia.
 
 185
 00:39:29,693 --> 00:39:34,880
-É.
+ï¿½.
 Mas me lembrei...
 
 186
 00:39:34,881 --> 00:39:38,430
-É, parece maravilhoso,
+ï¿½, parece maravilhoso,
 mas...
 
 187
@@ -3947,7 +3947,7 @@ Exceto por uma coisa.
 188
 00:39:41,488 --> 00:39:45,408
 Dormiu com outra mulher
-quando éramos noivos.
+quando ï¿½ramos noivos.
 
 189
 00:39:51,782 --> 00:39:54,184
@@ -3961,16 +3961,16 @@ do que fiz.
 191
 00:39:58,200 --> 00:40:02,826
 Mas farei de tudo
-para você me perdoar. Juro.
+para vocï¿½ me perdoar. Juro.
 
 192
 00:40:08,432 --> 00:40:12,400
-Não estou pronta
+Nï¿½o estou pronta
 para te perdoar, Crosby.
 
 193
 00:40:12,401 --> 00:40:15,500
-E não sei
+E nï¿½o sei
 se algum dia estarei.
 
 194
@@ -4003,11 +4003,11 @@ uma coisa.
 
 200
 00:40:54,344 --> 00:40:55,762
-O que é?
+O que ï¿½?
 
 201
 00:41:01,686 --> 00:41:04,854
-Não quero te preocupar.
+Nï¿½o quero te preocupar.
 Falei com Dra. Sarris.
 
 202
@@ -4017,39 +4017,39 @@ dos meus exames,
 
 203
 00:41:07,391 --> 00:41:10,193
-e há um problema.
+e hï¿½ um problema.
 
 204
 00:41:10,194 --> 00:41:13,040
-Não é câncer.
+Nï¿½o ï¿½ cï¿½ncer.
 
 205
 00:41:13,530 --> 00:41:15,900
 Foi o que disse primeiro,
-então não se preocupe.
+entï¿½o nï¿½o se preocupe.
 
 206
 00:41:15,901 --> 00:41:18,668
-Certo. O que é?
+Certo. O que ï¿½?
 
 207
 00:41:18,669 --> 00:41:22,271
-É chamado
+ï¿½ chamado
 de cicatriz intrauterina.
 
 208
 00:41:22,272 --> 00:41:25,910
 -O que significa?
--É algo...
+-ï¿½ algo...
 
 209
 00:41:27,811 --> 00:41:30,900
-Que faz ser muito difícil
+Que faz ser muito difï¿½cil
 engravidar.
 
 210
 00:41:32,049 --> 00:41:36,285
-É muito improvável.
+ï¿½ muito improvï¿½vel.
 
 211
 00:41:38,288 --> 00:41:39,723
@@ -4057,23 +4057,23 @@ Sinto muito.
 
 212
 00:41:40,824 --> 00:41:43,400
-Não precisa se desculpar
+Nï¿½o precisa se desculpar
 por algo assim.
 
 213
 00:41:43,401 --> 00:41:47,500
 Sinto...
-Só...
+Sï¿½...
 
 214
 00:41:48,965 --> 00:41:52,635
-Te fiz ir ao médico.
-E nem era com você, era comigo.
+Te fiz ir ao mï¿½dico.
+E nem era com vocï¿½, era comigo.
 
 215
 00:41:52,636 --> 00:41:56,639
 Esquece, querida.
-Só você importa agora, certo?
+Sï¿½ vocï¿½ importa agora, certo?
 
 216
 00:42:00,444 --> 00:42:03,000
@@ -4086,6 +4086,5 @@ Sei disso.
 
 218
 00:42:11,993 --> 00:42:16,693
-@darklegenders 
+@darklegenders
 www.darksite.tv
-

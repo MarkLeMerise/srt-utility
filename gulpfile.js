@@ -3,7 +3,7 @@
 var browserify = require('browserify'),
 	gulp = require('gulp'),
 	source = require('vinyl-source-stream'),
-	util = require('gulp-util'),
+	log = require('fancy-log'),
 	watchify = require('watchify');
 
 
@@ -22,7 +22,7 @@ gulp.task('browserify', function() {
 		return bundler
 			.bundle()
 			.pipe(source('app.js'))
-			.on('error', util.log.bind(util, 'Browserify Error'))
+			.on('error', log)
 			.pipe(gulp.dest(BUILD_DIR + '/scripts'));
 	}
 

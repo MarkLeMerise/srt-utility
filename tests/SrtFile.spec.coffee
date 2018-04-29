@@ -50,19 +50,19 @@ describe 'SrtFile', ->
 		it 'should find a packet by its starting timestamp', ->
 			packet = srtFile.findPacket(1)
 
-			expect(packet).to.exist().and.to.equal packetList[0]
+			expect(packet).to.exist.and.to.equal packetList[0]
 
 
 		it 'should find a packet by its ending timestamp', ->
 			packet = srtFile.findPacket(240)
 
-			expect(packet).to.exist().and.to.equal packetList[1]
+			expect(packet).to.exist.and.to.equal packetList[1]
 
 
 		it 'should find a packet if the query falls within a packet\'s timestamp range', ->
 			packet = srtFile.findPacket(210)
 
-			expect(packet).to.exist().and.to.equal packetList[1]
+			expect(packet).to.exist.and.to.equal packetList[1]
 
 
 		it 'should not find a packet if the query falls outside all packet\'s timestamp ranges', ->
